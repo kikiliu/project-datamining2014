@@ -1,5 +1,5 @@
-project-datamining2014
+Interest groups identification and friends recommendation
 ======================
 
 Final Project for Datamining 2014
-[Solved]Retrieve 3200 or less from user_timeline
+
