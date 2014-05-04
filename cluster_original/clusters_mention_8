@@ -1,0 +1,814 @@
+#source	target	label	color	attribute
+Dan Perkel	Lazar Stojkovic	Dan Perkel_Lazar Stojkovic_cl_8	#FF0000	cl_8
+Dan Perkel	Joseph Lorenzo Hall	Dan Perkel_Joseph Lorenzo Hall_cl_8	#FF0000	cl_8
+Dan Perkel	R. Stuart Geiger	Dan Perkel_R. Stuart Geiger_cl_8	#FF0000	cl_8
+Dan Perkel	ashkan soltani	Dan Perkel_ashkan soltani_cl_8	#FF0000	cl_8
+Dan Perkel	Anno Saxenian	Dan Perkel_Anno Saxenian_cl_8	#FF0000	cl_8
+Dan Perkel	Yuri Takhteyev	Dan Perkel_Yuri Takhteyev_cl_8	#FF0000	cl_8
+Dan Perkel	Ryan Shaw	Dan Perkel_Ryan Shaw_cl_8	#FF0000	cl_8
+Dan Perkel	Rachelle Annechino	Dan Perkel_Rachelle Annechino_cl_8	#FF0000	cl_8
+Dan Perkel	iSchools	Dan Perkel_iSchools_cl_8	#FF0000	cl_8
+Dan Perkel	ManoMarks	Dan Perkel_ManoMarks_cl_8	#FF0000	cl_8
+Dan Perkel	Airi Lampinen	Dan Perkel_Airi Lampinen_cl_8	#FF0000	cl_8
+Dan Perkel	D-Lab	Dan Perkel_D-Lab_cl_8	#FF0000	cl_8
+Dan Perkel	Leslie Tom	Dan Perkel_Leslie Tom_cl_8	#FF0000	cl_8
+Dan Perkel	Hong	Dan Perkel_Hong_cl_8	#FF0000	cl_8
+Dan Perkel	Cal	Dan Perkel_Cal_cl_8	#FF0000	cl_8
+Dan Perkel	Jess Hemerly	Dan Perkel_Jess Hemerly_cl_8	#FF0000	cl_8
+Dan Perkel	danah boyd	Dan Perkel_danah boyd_cl_8	#FF0000	cl_8
+Dan Perkel	Anne Wootton	Dan Perkel_Anne Wootton_cl_8	#FF0000	cl_8
+Dan Perkel	Raymond Yee	Dan Perkel_Raymond Yee_cl_8	#FF0000	cl_8
+Dan Perkel	Mohit Gupta	Dan Perkel_Mohit Gupta_cl_8	#FF0000	cl_8
+Dan Perkel	Mike Lissner	Dan Perkel_Mike Lissner_cl_8	#FF0000	cl_8
+Dan Perkel	Pop Up Archive	Dan Perkel_Pop Up Archive_cl_8	#FF0000	cl_8
+Dan Perkel	Bob Glushko	Dan Perkel_Bob Glushko_cl_8	#FF0000	cl_8
+Dan Perkel	Tapan Parikh	Dan Perkel_Tapan Parikh_cl_8	#FF0000	cl_8
+Dan Perkel	Kim Norlen	Dan Perkel_Kim Norlen_cl_8	#FF0000	cl_8
+Dan Perkel	Galen Panger	Dan Perkel_Galen Panger_cl_8	#FF0000	cl_8
+Dan Perkel	Sarita Y Schoenebeck	Dan Perkel_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Dan Perkel	nicolewong	Dan Perkel_nicolewong_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Mike Lissner	Lazar Stojkovic_Mike Lissner_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Joseph Lorenzo Hall	Lazar Stojkovic_Joseph Lorenzo Hall_cl_8	#FF0000	cl_8
+Lazar Stojkovic	div	Lazar Stojkovic_div_cl_8	#FF0000	cl_8
+Lazar Stojkovic	R. Stuart Geiger	Lazar Stojkovic_R. Stuart Geiger_cl_8	#FF0000	cl_8
+Lazar Stojkovic	ashkan soltani	Lazar Stojkovic_ashkan soltani_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Parker Thompson	Lazar Stojkovic_Parker Thompson_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Anno Saxenian	Lazar Stojkovic_Anno Saxenian_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Michael Manoochehri	Lazar Stojkovic_Michael Manoochehri_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Erik Wilde	Lazar Stojkovic_Erik Wilde_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Yuri Takhteyev	Lazar Stojkovic_Yuri Takhteyev_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Dhawal Mujumdar	Lazar Stojkovic_Dhawal Mujumdar_cl_8	#FF0000	cl_8
+Lazar Stojkovic	iSchools	Lazar Stojkovic_iSchools_cl_8	#FF0000	cl_8
+Lazar Stojkovic	ManoMarks	Lazar Stojkovic_ManoMarks_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Airi Lampinen	Lazar Stojkovic_Airi Lampinen_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Michael Porath	Lazar Stojkovic_Michael Porath_cl_8	#FF0000	cl_8
+Lazar Stojkovic	D-Lab	Lazar Stojkovic_D-Lab_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Leslie Tom	Lazar Stojkovic_Leslie Tom_cl_8	#FF0000	cl_8
+Lazar Stojkovic	X to the M	Lazar Stojkovic_X to the M_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Hong	Lazar Stojkovic_Hong_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Thejo Kote	Lazar Stojkovic_Thejo Kote_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Cal	Lazar Stojkovic_Cal_cl_8	#FF0000	cl_8
+Lazar Stojkovic	CITRIS	Lazar Stojkovic_CITRIS_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Jess Hemerly	Lazar Stojkovic_Jess Hemerly_cl_8	#FF0000	cl_8
+Lazar Stojkovic	datascience@berkeley	Lazar Stojkovic_datascience@berkeley_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Roy Bahat	Lazar Stojkovic_Roy Bahat_cl_8	#FF0000	cl_8
+Lazar Stojkovic	danah boyd	Lazar Stojkovic_danah boyd_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Anne Wootton	Lazar Stojkovic_Anne Wootton_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Dan Byler	Lazar Stojkovic_Dan Byler_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Bailey Smith	Lazar Stojkovic_Bailey Smith_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Ryan McAdam	Lazar Stojkovic_Ryan McAdam_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Raymond Yee	Lazar Stojkovic_Raymond Yee_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Mohit Gupta	Lazar Stojkovic_Mohit Gupta_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Paul D Goodman	Lazar Stojkovic_Paul D Goodman_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Pop Up Archive	Lazar Stojkovic_Pop Up Archive_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Bob Glushko	Lazar Stojkovic_Bob Glushko_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Nick Doty	Lazar Stojkovic_Nick Doty_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Tapan Parikh	Lazar Stojkovic_Tapan Parikh_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Kim Norlen	Lazar Stojkovic_Kim Norlen_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Galen Panger	Lazar Stojkovic_Galen Panger_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Sarita Y Schoenebeck	Lazar Stojkovic_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Gilbert Hernandez	Lazar Stojkovic_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Lazar Stojkovic	Andy Brooks	Lazar Stojkovic_Andy Brooks_cl_8	#FF0000	cl_8
+Lazar Stojkovic	UC Berkeley News	Lazar Stojkovic_UC Berkeley News_cl_8	#FF0000	cl_8
+Lazar Stojkovic	nicolewong	Lazar Stojkovic_nicolewong_cl_8	#FF0000	cl_8
+Mike Lissner	Joseph Lorenzo Hall	Mike Lissner_Joseph Lorenzo Hall_cl_8	#FF0000	cl_8
+Mike Lissner	div	Mike Lissner_div_cl_8	#FF0000	cl_8
+Mike Lissner	R. Stuart Geiger	Mike Lissner_R. Stuart Geiger_cl_8	#FF0000	cl_8
+Mike Lissner	Brian W. Carver	Mike Lissner_Brian W. Carver_cl_8	#FF0000	cl_8
+Mike Lissner	ashkan soltani	Mike Lissner_ashkan soltani_cl_8	#FF0000	cl_8
+Mike Lissner	Anno Saxenian	Mike Lissner_Anno Saxenian_cl_8	#FF0000	cl_8
+Mike Lissner	Michael Manoochehri	Mike Lissner_Michael Manoochehri_cl_8	#FF0000	cl_8
+Mike Lissner	Erik Wilde	Mike Lissner_Erik Wilde_cl_8	#FF0000	cl_8
+Mike Lissner	Yuri Takhteyev	Mike Lissner_Yuri Takhteyev_cl_8	#FF0000	cl_8
+Mike Lissner	Rachelle Annechino	Mike Lissner_Rachelle Annechino_cl_8	#FF0000	cl_8
+Mike Lissner	ManoMarks	Mike Lissner_ManoMarks_cl_8	#FF0000	cl_8
+Mike Lissner	Airi Lampinen	Mike Lissner_Airi Lampinen_cl_8	#FF0000	cl_8
+Mike Lissner	Michael Porath	Mike Lissner_Michael Porath_cl_8	#FF0000	cl_8
+Mike Lissner	D-Lab	Mike Lissner_D-Lab_cl_8	#FF0000	cl_8
+Mike Lissner	Thejo Kote	Mike Lissner_Thejo Kote_cl_8	#FF0000	cl_8
+Mike Lissner	Cal	Mike Lissner_Cal_cl_8	#FF0000	cl_8
+Mike Lissner	CITRIS	Mike Lissner_CITRIS_cl_8	#FF0000	cl_8
+Mike Lissner	Jess Hemerly	Mike Lissner_Jess Hemerly_cl_8	#FF0000	cl_8
+Mike Lissner	datascience@berkeley	Mike Lissner_datascience@berkeley_cl_8	#FF0000	cl_8
+Mike Lissner	danah boyd	Mike Lissner_danah boyd_cl_8	#FF0000	cl_8
+Mike Lissner	Anne Wootton	Mike Lissner_Anne Wootton_cl_8	#FF0000	cl_8
+Mike Lissner	Dan Byler	Mike Lissner_Dan Byler_cl_8	#FF0000	cl_8
+Mike Lissner	Ryan McAdam	Mike Lissner_Ryan McAdam_cl_8	#FF0000	cl_8
+Mike Lissner	Raymond Yee	Mike Lissner_Raymond Yee_cl_8	#FF0000	cl_8
+Mike Lissner	Mohit Gupta	Mike Lissner_Mohit Gupta_cl_8	#FF0000	cl_8
+Mike Lissner	Paul D Goodman	Mike Lissner_Paul D Goodman_cl_8	#FF0000	cl_8
+Mike Lissner	Pop Up Archive	Mike Lissner_Pop Up Archive_cl_8	#FF0000	cl_8
+Mike Lissner	Bob Glushko	Mike Lissner_Bob Glushko_cl_8	#FF0000	cl_8
+Mike Lissner	Nick Doty	Mike Lissner_Nick Doty_cl_8	#FF0000	cl_8
+Mike Lissner	Tapan Parikh	Mike Lissner_Tapan Parikh_cl_8	#FF0000	cl_8
+Mike Lissner	Kim Norlen	Mike Lissner_Kim Norlen_cl_8	#FF0000	cl_8
+Mike Lissner	Galen Panger	Mike Lissner_Galen Panger_cl_8	#FF0000	cl_8
+Mike Lissner	Sarita Y Schoenebeck	Mike Lissner_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Mike Lissner	Gilbert Hernandez	Mike Lissner_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Mike Lissner	nicolewong	Mike Lissner_nicolewong_cl_8	#FF0000	cl_8
+Mike Lissner	Emily Barabas	Mike Lissner_Emily Barabas_cl_8	#FF0000	cl_8
+Prabha Matta	Jason Ost	Prabha Matta_Jason Ost_cl_2	#00FF00	cl_2
+Prabha Matta	South Hall, Berkeley	Prabha Matta_South Hall, Berkeley_cl_2	#00FF00	cl_2
+Prabha Matta	Dave Lester	Prabha Matta_Dave Lester_cl_2	#00FF00	cl_2
+Prabha Matta	Seema Hari	Prabha Matta_Seema Hari_cl_2	#00FF00	cl_2
+Big Ideas@Berkeley	berkeleyByte	Big Ideas@Berkeley_berkeleyByte_cl_9	#FF3300	cl_9
+Big Ideas@Berkeley	ruchita rathi	Big Ideas@Berkeley_ruchita rathi_cl_9	#FF3300	cl_9
+Big Ideas@Berkeley	Niranjan K	Big Ideas@Berkeley_Niranjan K_cl_9	#FF3300	cl_9
+Big Ideas@Berkeley	Berkeley Launch	Big Ideas@Berkeley_Berkeley Launch_cl_9	#FF3300	cl_9
+Peter Sw	raymonst	Peter Sw_raymonst_cl_2	#00FF00	cl_2
+Peter Sw	Shaun Guice	Peter Sw_Shaun Guice_cl_2	#00FF00	cl_2
+Erik Wilde	Joseph Lorenzo Hall	Erik Wilde_Joseph Lorenzo Hall_cl_8	#FF0000	cl_8
+Erik Wilde	R. Stuart Geiger	Erik Wilde_R. Stuart Geiger_cl_8	#FF0000	cl_8
+Erik Wilde	ashkan soltani	Erik Wilde_ashkan soltani_cl_8	#FF0000	cl_8
+Erik Wilde	Anno Saxenian	Erik Wilde_Anno Saxenian_cl_8	#FF0000	cl_8
+Erik Wilde	Michael Manoochehri	Erik Wilde_Michael Manoochehri_cl_8	#FF0000	cl_8
+Erik Wilde	Ryan Shaw	Erik Wilde_Ryan Shaw_cl_8	#FF0000	cl_8
+Erik Wilde	iSchools	Erik Wilde_iSchools_cl_8	#FF0000	cl_8
+Erik Wilde	ManoMarks	Erik Wilde_ManoMarks_cl_8	#FF0000	cl_8
+Erik Wilde	Michael Porath	Erik Wilde_Michael Porath_cl_8	#FF0000	cl_8
+Erik Wilde	D-Lab	Erik Wilde_D-Lab_cl_8	#FF0000	cl_8
+Erik Wilde	Hong	Erik Wilde_Hong_cl_8	#FF0000	cl_8
+Erik Wilde	Cal	Erik Wilde_Cal_cl_8	#FF0000	cl_8
+Erik Wilde	Jess Hemerly	Erik Wilde_Jess Hemerly_cl_8	#FF0000	cl_8
+Erik Wilde	datascience@berkeley	Erik Wilde_datascience@berkeley_cl_8	#FF0000	cl_8
+Erik Wilde	Dan Byler	Erik Wilde_Dan Byler_cl_8	#FF0000	cl_8
+Erik Wilde	Raymond Yee	Erik Wilde_Raymond Yee_cl_8	#FF0000	cl_8
+Erik Wilde	Paul D Goodman	Erik Wilde_Paul D Goodman_cl_8	#FF0000	cl_8
+Erik Wilde	Bob Glushko	Erik Wilde_Bob Glushko_cl_8	#FF0000	cl_8
+Erik Wilde	Nick Doty	Erik Wilde_Nick Doty_cl_8	#FF0000	cl_8
+Erik Wilde	Gilbert Hernandez	Erik Wilde_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	iSchools	Joseph Lorenzo Hall_iSchools_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	R. Stuart Geiger	Joseph Lorenzo Hall_R. Stuart Geiger_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Brian W. Carver	Joseph Lorenzo Hall_Brian W. Carver_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	ashkan soltani	Joseph Lorenzo Hall_ashkan soltani_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Parker Thompson	Joseph Lorenzo Hall_Parker Thompson_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Anno Saxenian	Joseph Lorenzo Hall_Anno Saxenian_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Yuri Takhteyev	Joseph Lorenzo Hall_Yuri Takhteyev_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Michael Manoochehri	Joseph Lorenzo Hall_Michael Manoochehri_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Ryan Shaw	Joseph Lorenzo Hall_Ryan Shaw_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Rachelle Annechino	Joseph Lorenzo Hall_Rachelle Annechino_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	ManoMarks	Joseph Lorenzo Hall_ManoMarks_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Airi Lampinen	Joseph Lorenzo Hall_Airi Lampinen_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Michael Porath	Joseph Lorenzo Hall_Michael Porath_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	D-Lab	Joseph Lorenzo Hall_D-Lab_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	X to the M	Joseph Lorenzo Hall_X to the M_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Hong	Joseph Lorenzo Hall_Hong_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Roy Bahat	Joseph Lorenzo Hall_Roy Bahat_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Thejo Kote	Joseph Lorenzo Hall_Thejo Kote_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Cal	Joseph Lorenzo Hall_Cal_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	CITRIS	Joseph Lorenzo Hall_CITRIS_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Jess Hemerly	Joseph Lorenzo Hall_Jess Hemerly_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	datascience@berkeley	Joseph Lorenzo Hall_datascience@berkeley_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	danah boyd	Joseph Lorenzo Hall_danah boyd_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Anne Wootton	Joseph Lorenzo Hall_Anne Wootton_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Dan Byler	Joseph Lorenzo Hall_Dan Byler_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Raymond Yee	Joseph Lorenzo Hall_Raymond Yee_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Mohit Gupta	Joseph Lorenzo Hall_Mohit Gupta_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Paul D Goodman	Joseph Lorenzo Hall_Paul D Goodman_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Pop Up Archive	Joseph Lorenzo Hall_Pop Up Archive_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Nick Doty	Joseph Lorenzo Hall_Nick Doty_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Kim Norlen	Joseph Lorenzo Hall_Kim Norlen_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Galen Panger	Joseph Lorenzo Hall_Galen Panger_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Sarita Y Schoenebeck	Joseph Lorenzo Hall_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	nicolewong	Joseph Lorenzo Hall_nicolewong_cl_8	#FF0000	cl_8
+Joseph Lorenzo Hall	Emily Barabas	Joseph Lorenzo Hall_Emily Barabas_cl_8	#FF0000	cl_8
+div	Anno Saxenian	div_Anno Saxenian_cl_8	#FF0000	cl_8
+div	Michael Manoochehri	div_Michael Manoochehri_cl_8	#FF0000	cl_8
+div	iSchools	div_iSchools_cl_8	#FF0000	cl_8
+div	ManoMarks	div_ManoMarks_cl_8	#FF0000	cl_8
+div	Michael Porath	div_Michael Porath_cl_8	#FF0000	cl_8
+div	D-Lab	div_D-Lab_cl_8	#FF0000	cl_8
+div	Hong	div_Hong_cl_8	#FF0000	cl_8
+div	Cal	div_Cal_cl_8	#FF0000	cl_8
+div	CITRIS	div_CITRIS_cl_8	#FF0000	cl_8
+div	datascience@berkeley	div_datascience@berkeley_cl_8	#FF0000	cl_8
+div	Roy Bahat	div_Roy Bahat_cl_8	#FF0000	cl_8
+div	danah boyd	div_danah boyd_cl_8	#FF0000	cl_8
+div	Ryan McAdam	div_Ryan McAdam_cl_8	#FF0000	cl_8
+div	Raymond Yee	div_Raymond Yee_cl_8	#FF0000	cl_8
+div	Paul D Goodman	div_Paul D Goodman_cl_8	#FF0000	cl_8
+div	Pop Up Archive	div_Pop Up Archive_cl_8	#FF0000	cl_8
+div	Tapan Parikh	div_Tapan Parikh_cl_8	#FF0000	cl_8
+div	Kim Norlen	div_Kim Norlen_cl_8	#FF0000	cl_8
+div	Galen Panger	div_Galen Panger_cl_8	#FF0000	cl_8
+div	Sarita Y Schoenebeck	div_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+div	Gilbert Hernandez	div_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Arthur Che	suzanne	Arthur Che_suzanne_cl_4	#0000FF	cl_4
+Arthur Che	Laura Wishingrad	Arthur Che_Laura Wishingrad_cl_4	#0000FF	cl_4
+David Thaw	The Tweetserve	David Thaw_The Tweetserve_cl_6	#800000	cl_6
+Meredith Hitchcock	berkeleyByte	Meredith Hitchcock_berkeleyByte_cl_9	#FF3300	cl_9
+Meredith Hitchcock	ruchita rathi	Meredith Hitchcock_ruchita rathi_cl_9	#FF3300	cl_9
+Meredith Hitchcock	Niranjan K	Meredith Hitchcock_Niranjan K_cl_9	#FF3300	cl_9
+R. Stuart Geiger	ashkan soltani	R. Stuart Geiger_ashkan soltani_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Cal New Media	R. Stuart Geiger_Cal New Media_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Anno Saxenian	R. Stuart Geiger_Anno Saxenian_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Yuri Takhteyev	R. Stuart Geiger_Yuri Takhteyev_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Michael Manoochehri	R. Stuart Geiger_Michael Manoochehri_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Ryan Shaw	R. Stuart Geiger_Ryan Shaw_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Rachelle Annechino	R. Stuart Geiger_Rachelle Annechino_cl_8	#FF0000	cl_8
+R. Stuart Geiger	iSchools	R. Stuart Geiger_iSchools_cl_8	#FF0000	cl_8
+R. Stuart Geiger	ManoMarks	R. Stuart Geiger_ManoMarks_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Airi Lampinen	R. Stuart Geiger_Airi Lampinen_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Michael Porath	R. Stuart Geiger_Michael Porath_cl_8	#FF0000	cl_8
+R. Stuart Geiger	D-Lab	R. Stuart Geiger_D-Lab_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Leslie Tom	R. Stuart Geiger_Leslie Tom_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Hong	R. Stuart Geiger_Hong_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Cal	R. Stuart Geiger_Cal_cl_8	#FF0000	cl_8
+R. Stuart Geiger	CITRIS	R. Stuart Geiger_CITRIS_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Jess Hemerly	R. Stuart Geiger_Jess Hemerly_cl_8	#FF0000	cl_8
+R. Stuart Geiger	datascience@berkeley	R. Stuart Geiger_datascience@berkeley_cl_8	#FF0000	cl_8
+R. Stuart Geiger	danah boyd	R. Stuart Geiger_danah boyd_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Raymond Yee	R. Stuart Geiger_Raymond Yee_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Mohit Gupta	R. Stuart Geiger_Mohit Gupta_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Paul D Goodman	R. Stuart Geiger_Paul D Goodman_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Nick Doty	R. Stuart Geiger_Nick Doty_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Tapan Parikh	R. Stuart Geiger_Tapan Parikh_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Galen Panger	R. Stuart Geiger_Galen Panger_cl_8	#FF0000	cl_8
+R. Stuart Geiger	Sarita Y Schoenebeck	R. Stuart Geiger_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+R. Stuart Geiger	nicolewong	R. Stuart Geiger_nicolewong_cl_8	#FF0000	cl_8
+Epub.js	FuturePress	Epub.js_FuturePress_cl_6	#800000	cl_6
+Abrahm Coffman	Sean Carey	Abrahm Coffman_Sean Carey_cl_10	#008000	cl_10
+Abrahm Coffman	Alex Smolen	Abrahm Coffman_Alex Smolen_cl_10	#008000	cl_10
+Brian W. Carver	ashkan soltani	Brian W. Carver_ashkan soltani_cl_8	#FF0000	cl_8
+Brian W. Carver	Yuri Takhteyev	Brian W. Carver_Yuri Takhteyev_cl_8	#FF0000	cl_8
+Brian W. Carver	ManoMarks	Brian W. Carver_ManoMarks_cl_8	#FF0000	cl_8
+Brian W. Carver	Airi Lampinen	Brian W. Carver_Airi Lampinen_cl_8	#FF0000	cl_8
+Brian W. Carver	Michael Porath	Brian W. Carver_Michael Porath_cl_8	#FF0000	cl_8
+Brian W. Carver	D-Lab	Brian W. Carver_D-Lab_cl_8	#FF0000	cl_8
+Brian W. Carver	Cal	Brian W. Carver_Cal_cl_8	#FF0000	cl_8
+Brian W. Carver	CITRIS	Brian W. Carver_CITRIS_cl_8	#FF0000	cl_8
+Brian W. Carver	Dan Byler	Brian W. Carver_Dan Byler_cl_8	#FF0000	cl_8
+Brian W. Carver	Raymond Yee	Brian W. Carver_Raymond Yee_cl_8	#FF0000	cl_8
+Brian W. Carver	Nick Doty	Brian W. Carver_Nick Doty_cl_8	#FF0000	cl_8
+Brian W. Carver	Galen Panger	Brian W. Carver_Galen Panger_cl_8	#FF0000	cl_8
+Brian W. Carver	nicolewong	Brian W. Carver_nicolewong_cl_8	#FF0000	cl_8
+Brian W. Carver	Emily Barabas	Brian W. Carver_Emily Barabas_cl_8	#FF0000	cl_8
+ashkan soltani	iSchools	ashkan soltani_iSchools_cl_8	#FF0000	cl_8
+ashkan soltani	Michael Manoochehri	ashkan soltani_Michael Manoochehri_cl_8	#FF0000	cl_8
+ashkan soltani	ManoMarks	ashkan soltani_ManoMarks_cl_8	#FF0000	cl_8
+ashkan soltani	Airi Lampinen	ashkan soltani_Airi Lampinen_cl_8	#FF0000	cl_8
+ashkan soltani	Michael Porath	ashkan soltani_Michael Porath_cl_8	#FF0000	cl_8
+ashkan soltani	X to the M	ashkan soltani_X to the M_cl_8	#FF0000	cl_8
+ashkan soltani	Hong	ashkan soltani_Hong_cl_8	#FF0000	cl_8
+ashkan soltani	Roy Bahat	ashkan soltani_Roy Bahat_cl_8	#FF0000	cl_8
+ashkan soltani	Cal	ashkan soltani_Cal_cl_8	#FF0000	cl_8
+ashkan soltani	Jess Hemerly	ashkan soltani_Jess Hemerly_cl_8	#FF0000	cl_8
+ashkan soltani	datascience@berkeley	ashkan soltani_datascience@berkeley_cl_8	#FF0000	cl_8
+ashkan soltani	danah boyd	ashkan soltani_danah boyd_cl_8	#FF0000	cl_8
+ashkan soltani	Raymond Yee	ashkan soltani_Raymond Yee_cl_8	#FF0000	cl_8
+ashkan soltani	Mohit Gupta	ashkan soltani_Mohit Gupta_cl_8	#FF0000	cl_8
+ashkan soltani	Nick Doty	ashkan soltani_Nick Doty_cl_8	#FF0000	cl_8
+ashkan soltani	Kim Norlen	ashkan soltani_Kim Norlen_cl_8	#FF0000	cl_8
+ashkan soltani	Galen Panger	ashkan soltani_Galen Panger_cl_8	#FF0000	cl_8
+ashkan soltani	Sarita Y Schoenebeck	ashkan soltani_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+ashkan soltani	nicolewong	ashkan soltani_nicolewong_cl_8	#FF0000	cl_8
+ashkan soltani	Emily Barabas	ashkan soltani_Emily Barabas_cl_8	#FF0000	cl_8
+AJ Renold	raymonst	AJ Renold_raymonst_cl_2	#00FF00	cl_2
+AJ Renold	Dave Lester	AJ Renold_Dave Lester_cl_2	#00FF00	cl_2
+AJ Renold	Isha Dandavate	AJ Renold_Isha Dandavate_cl_2	#00FF00	cl_2
+AJ Renold	Shreyas	AJ Renold_Shreyas_cl_2	#00FF00	cl_2
+AJ Renold	South Hall, Berkeley	AJ Renold_South Hall, Berkeley_cl_2	#00FF00	cl_2
+AJ Renold	InfoCamp Berkeley	AJ Renold_InfoCamp Berkeley_cl_2	#00FF00	cl_2
+AJ Renold	Brian Bloomer	AJ Renold_Brian Bloomer_cl_2	#00FF00	cl_2
+AJ Renold	Shaun Guice	AJ Renold_Shaun Guice_cl_2	#00FF00	cl_2
+AJ Renold	Seema Hari	AJ Renold_Seema Hari_cl_2	#00FF00	cl_2
+AJ Renold	Jake Hartnell	AJ Renold_Jake Hartnell_cl_2	#00FF00	cl_2
+raymonst	Isha Dandavate	raymonst_Isha Dandavate_cl_2	#00FF00	cl_2
+raymonst	Shreyas	raymonst_Shreyas_cl_2	#00FF00	cl_2
+raymonst	South Hall, Berkeley	raymonst_South Hall, Berkeley_cl_2	#00FF00	cl_2
+raymonst	Brian Bloomer	raymonst_Brian Bloomer_cl_2	#00FF00	cl_2
+raymonst	Seema Hari	raymonst_Seema Hari_cl_2	#00FF00	cl_2
+raymonst	Jake Hartnell	raymonst_Jake Hartnell_cl_2	#00FF00	cl_2
+Parker Thompson	Michael Manoochehri	Parker Thompson_Michael Manoochehri_cl_8	#FF0000	cl_8
+Parker Thompson	ManoMarks	Parker Thompson_ManoMarks_cl_8	#FF0000	cl_8
+Parker Thompson	Michael Porath	Parker Thompson_Michael Porath_cl_8	#FF0000	cl_8
+Parker Thompson	Hong	Parker Thompson_Hong_cl_8	#FF0000	cl_8
+Parker Thompson	Roy Bahat	Parker Thompson_Roy Bahat_cl_8	#FF0000	cl_8
+Parker Thompson	Thejo Kote	Parker Thompson_Thejo Kote_cl_8	#FF0000	cl_8
+Parker Thompson	Cal	Parker Thompson_Cal_cl_8	#FF0000	cl_8
+Parker Thompson	danah boyd	Parker Thompson_danah boyd_cl_8	#FF0000	cl_8
+Jason Ost	Shreyas	Jason Ost_Shreyas_cl_2	#00FF00	cl_2
+Jason Ost	South Hall, Berkeley	Jason Ost_South Hall, Berkeley_cl_2	#00FF00	cl_2
+Jason Ost	Brian Bloomer	Jason Ost_Brian Bloomer_cl_2	#00FF00	cl_2
+Jason Ost	Dave Lester	Jason Ost_Dave Lester_cl_2	#00FF00	cl_2
+Jason Ost	Shaun Guice	Jason Ost_Shaun Guice_cl_2	#00FF00	cl_2
+Jason Ost	Seema Hari	Jason Ost_Seema Hari_cl_2	#00FF00	cl_2
+Cal New Media	Rachelle Annechino	Cal New Media_Rachelle Annechino_cl_8	#FF0000	cl_8
+Cal New Media	Airi Lampinen	Cal New Media_Airi Lampinen_cl_8	#FF0000	cl_8
+Cal New Media	D-Lab	Cal New Media_D-Lab_cl_8	#FF0000	cl_8
+Cal New Media	Cal	Cal New Media_Cal_cl_8	#FF0000	cl_8
+Cal New Media	CITRIS	Cal New Media_CITRIS_cl_8	#FF0000	cl_8
+Cal New Media	danah boyd	Cal New Media_danah boyd_cl_8	#FF0000	cl_8
+Cal New Media	Raymond Yee	Cal New Media_Raymond Yee_cl_8	#FF0000	cl_8
+Cal New Media	Galen Panger	Cal New Media_Galen Panger_cl_8	#FF0000	cl_8
+Cal New Media	Sarita Y Schoenebeck	Cal New Media_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Cal New Media	UC Berkeley News	Cal New Media_UC Berkeley News_cl_8	#FF0000	cl_8
+Kentaro Toyama	Jenna Burrell	Kentaro Toyama_Jenna Burrell_cl_7	#000080	cl_7
+Deb	Scott Martin&#8480;	Deb_Scott Martin&#8480;_cl_1	#FF6600	cl_1
+Deb	Corey Hyllested	Deb_Corey Hyllested_cl_1	#FF6600	cl_1
+Deb	Sandra Yuen Helsley	Deb_Sandra Yuen Helsley_cl_1	#FF6600	cl_1
+Michael Manoochehri	Anno Saxenian	Michael Manoochehri_Anno Saxenian_cl_8	#FF0000	cl_8
+Michael Manoochehri	Yuri Takhteyev	Michael Manoochehri_Yuri Takhteyev_cl_8	#FF0000	cl_8
+Michael Manoochehri	Dhawal Mujumdar	Michael Manoochehri_Dhawal Mujumdar_cl_8	#FF0000	cl_8
+Michael Manoochehri	iSchools	Michael Manoochehri_iSchools_cl_8	#FF0000	cl_8
+Michael Manoochehri	ManoMarks	Michael Manoochehri_ManoMarks_cl_8	#FF0000	cl_8
+Michael Manoochehri	Airi Lampinen	Michael Manoochehri_Airi Lampinen_cl_8	#FF0000	cl_8
+Michael Manoochehri	Michael Porath	Michael Manoochehri_Michael Porath_cl_8	#FF0000	cl_8
+Michael Manoochehri	D-Lab	Michael Manoochehri_D-Lab_cl_8	#FF0000	cl_8
+Michael Manoochehri	Leslie Tom	Michael Manoochehri_Leslie Tom_cl_8	#FF0000	cl_8
+Michael Manoochehri	X to the M	Michael Manoochehri_X to the M_cl_8	#FF0000	cl_8
+Michael Manoochehri	Hong	Michael Manoochehri_Hong_cl_8	#FF0000	cl_8
+Michael Manoochehri	Thejo Kote	Michael Manoochehri_Thejo Kote_cl_8	#FF0000	cl_8
+Michael Manoochehri	Cal	Michael Manoochehri_Cal_cl_8	#FF0000	cl_8
+Michael Manoochehri	CITRIS	Michael Manoochehri_CITRIS_cl_8	#FF0000	cl_8
+Michael Manoochehri	Jess Hemerly	Michael Manoochehri_Jess Hemerly_cl_8	#FF0000	cl_8
+Michael Manoochehri	datascience@berkeley	Michael Manoochehri_datascience@berkeley_cl_8	#FF0000	cl_8
+Michael Manoochehri	Roy Bahat	Michael Manoochehri_Roy Bahat_cl_8	#FF0000	cl_8
+Michael Manoochehri	danah boyd	Michael Manoochehri_danah boyd_cl_8	#FF0000	cl_8
+Michael Manoochehri	Dan Byler	Michael Manoochehri_Dan Byler_cl_8	#FF0000	cl_8
+Michael Manoochehri	Ryan McAdam	Michael Manoochehri_Ryan McAdam_cl_8	#FF0000	cl_8
+Michael Manoochehri	Raymond Yee	Michael Manoochehri_Raymond Yee_cl_8	#FF0000	cl_8
+Michael Manoochehri	Mohit Gupta	Michael Manoochehri_Mohit Gupta_cl_8	#FF0000	cl_8
+Michael Manoochehri	Paul D Goodman	Michael Manoochehri_Paul D Goodman_cl_8	#FF0000	cl_8
+Michael Manoochehri	Pop Up Archive	Michael Manoochehri_Pop Up Archive_cl_8	#FF0000	cl_8
+Michael Manoochehri	Bob Glushko	Michael Manoochehri_Bob Glushko_cl_8	#FF0000	cl_8
+Michael Manoochehri	Nick Doty	Michael Manoochehri_Nick Doty_cl_8	#FF0000	cl_8
+Michael Manoochehri	Tapan Parikh	Michael Manoochehri_Tapan Parikh_cl_8	#FF0000	cl_8
+Michael Manoochehri	Kim Norlen	Michael Manoochehri_Kim Norlen_cl_8	#FF0000	cl_8
+Michael Manoochehri	Galen Panger	Michael Manoochehri_Galen Panger_cl_8	#FF0000	cl_8
+Michael Manoochehri	Sarita Y Schoenebeck	Michael Manoochehri_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Michael Manoochehri	Gilbert Hernandez	Michael Manoochehri_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Michael Manoochehri	Andy Brooks	Michael Manoochehri_Andy Brooks_cl_8	#FF0000	cl_8
+Michael Manoochehri	UC Berkeley News	Michael Manoochehri_UC Berkeley News_cl_8	#FF0000	cl_8
+Michael Manoochehri	nicolewong	Michael Manoochehri_nicolewong_cl_8	#FF0000	cl_8
+Mark Brazinski	Cal	Mark Brazinski_Cal_cl_8	#FF0000	cl_8
+Thomas Schluchter	georgethayes	Thomas Schluchter_georgethayes_cl_10	#008000	cl_10
+Thomas Schluchter	Yo-Shang	Thomas Schluchter_Yo-Shang_cl_10	#008000	cl_10
+Thomas Schluchter	Alex Smolen	Thomas Schluchter_Alex Smolen_cl_10	#008000	cl_10
+Thomas Schluchter	Kimra	Thomas Schluchter_Kimra_cl_10	#008000	cl_10
+Thomas Schluchter	Sean Carey	Thomas Schluchter_Sean Carey_cl_10	#008000	cl_10
+suzanne	kristine ng	suzanne_kristine ng_cl_4	#0000FF	cl_4
+suzanne	Shawna Hein	suzanne_Shawna Hein_cl_4	#0000FF	cl_4
+Yuri Takhteyev	iSchools	Yuri Takhteyev_iSchools_cl_8	#FF0000	cl_8
+Yuri Takhteyev	Airi Lampinen	Yuri Takhteyev_Airi Lampinen_cl_8	#FF0000	cl_8
+Yuri Takhteyev	Jess Hemerly	Yuri Takhteyev_Jess Hemerly_cl_8	#FF0000	cl_8
+Yuri Takhteyev	danah boyd	Yuri Takhteyev_danah boyd_cl_8	#FF0000	cl_8
+Yuri Takhteyev	Galen Panger	Yuri Takhteyev_Galen Panger_cl_8	#FF0000	cl_8
+Yuri Takhteyev	Sarita Y Schoenebeck	Yuri Takhteyev_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Ryan Shaw	ManoMarks	Ryan Shaw_ManoMarks_cl_8	#FF0000	cl_8
+Ryan Shaw	D-Lab	Ryan Shaw_D-Lab_cl_8	#FF0000	cl_8
+Ryan Shaw	danah boyd	Ryan Shaw_danah boyd_cl_8	#FF0000	cl_8
+Ryan Shaw	Raymond Yee	Ryan Shaw_Raymond Yee_cl_8	#FF0000	cl_8
+Ryan Shaw	Sarita Y Schoenebeck	Ryan Shaw_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Matt Senate	The Tweetserve	Matt Senate_The Tweetserve_cl_6	#800000	cl_6
+berkeleyByte	Niranjan K	berkeleyByte_Niranjan K_cl_9	#FF3300	cl_9
+Rachelle Annechino	Anno Saxenian	Rachelle Annechino_Anno Saxenian_cl_8	#FF0000	cl_8
+Rachelle Annechino	iSchools	Rachelle Annechino_iSchools_cl_8	#FF0000	cl_8
+Rachelle Annechino	ManoMarks	Rachelle Annechino_ManoMarks_cl_8	#FF0000	cl_8
+Rachelle Annechino	Airi Lampinen	Rachelle Annechino_Airi Lampinen_cl_8	#FF0000	cl_8
+Rachelle Annechino	Michael Porath	Rachelle Annechino_Michael Porath_cl_8	#FF0000	cl_8
+Rachelle Annechino	D-Lab	Rachelle Annechino_D-Lab_cl_8	#FF0000	cl_8
+Rachelle Annechino	Hong	Rachelle Annechino_Hong_cl_8	#FF0000	cl_8
+Rachelle Annechino	Cal	Rachelle Annechino_Cal_cl_8	#FF0000	cl_8
+Rachelle Annechino	CITRIS	Rachelle Annechino_CITRIS_cl_8	#FF0000	cl_8
+Rachelle Annechino	Jess Hemerly	Rachelle Annechino_Jess Hemerly_cl_8	#FF0000	cl_8
+Rachelle Annechino	datascience@berkeley	Rachelle Annechino_datascience@berkeley_cl_8	#FF0000	cl_8
+Rachelle Annechino	Roy Bahat	Rachelle Annechino_Roy Bahat_cl_8	#FF0000	cl_8
+Rachelle Annechino	danah boyd	Rachelle Annechino_danah boyd_cl_8	#FF0000	cl_8
+Rachelle Annechino	Dan Byler	Rachelle Annechino_Dan Byler_cl_8	#FF0000	cl_8
+Rachelle Annechino	Paul D Goodman	Rachelle Annechino_Paul D Goodman_cl_8	#FF0000	cl_8
+Rachelle Annechino	Pop Up Archive	Rachelle Annechino_Pop Up Archive_cl_8	#FF0000	cl_8
+Rachelle Annechino	Nick Doty	Rachelle Annechino_Nick Doty_cl_8	#FF0000	cl_8
+Rachelle Annechino	Tapan Parikh	Rachelle Annechino_Tapan Parikh_cl_8	#FF0000	cl_8
+Rachelle Annechino	Sarita Y Schoenebeck	Rachelle Annechino_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Rachelle Annechino	Gilbert Hernandez	Rachelle Annechino_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Galen Panger	iSchools	Galen Panger_iSchools_cl_8	#FF0000	cl_8
+Galen Panger	Anno Saxenian	Galen Panger_Anno Saxenian_cl_8	#FF0000	cl_8
+Galen Panger	Dhawal Mujumdar	Galen Panger_Dhawal Mujumdar_cl_8	#FF0000	cl_8
+Galen Panger	ManoMarks	Galen Panger_ManoMarks_cl_8	#FF0000	cl_8
+Galen Panger	Airi Lampinen	Galen Panger_Airi Lampinen_cl_8	#FF0000	cl_8
+Galen Panger	Michael Porath	Galen Panger_Michael Porath_cl_8	#FF0000	cl_8
+Galen Panger	D-Lab	Galen Panger_D-Lab_cl_8	#FF0000	cl_8
+Galen Panger	X to the M	Galen Panger_X to the M_cl_8	#FF0000	cl_8
+Galen Panger	Hong	Galen Panger_Hong_cl_8	#FF0000	cl_8
+Galen Panger	Roy Bahat	Galen Panger_Roy Bahat_cl_8	#FF0000	cl_8
+Galen Panger	Thejo Kote	Galen Panger_Thejo Kote_cl_8	#FF0000	cl_8
+Galen Panger	Cal	Galen Panger_Cal_cl_8	#FF0000	cl_8
+Galen Panger	CITRIS	Galen Panger_CITRIS_cl_8	#FF0000	cl_8
+Galen Panger	Jess Hemerly	Galen Panger_Jess Hemerly_cl_8	#FF0000	cl_8
+Galen Panger	datascience@berkeley	Galen Panger_datascience@berkeley_cl_8	#FF0000	cl_8
+Galen Panger	danah boyd	Galen Panger_danah boyd_cl_8	#FF0000	cl_8
+Galen Panger	Anne Wootton	Galen Panger_Anne Wootton_cl_8	#FF0000	cl_8
+Galen Panger	Ryan McAdam	Galen Panger_Ryan McAdam_cl_8	#FF0000	cl_8
+Galen Panger	Paul D Goodman	Galen Panger_Paul D Goodman_cl_8	#FF0000	cl_8
+Galen Panger	Nick Doty	Galen Panger_Nick Doty_cl_8	#FF0000	cl_8
+Galen Panger	Kim Norlen	Galen Panger_Kim Norlen_cl_8	#FF0000	cl_8
+Galen Panger	Sarita Y Schoenebeck	Galen Panger_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Galen Panger	Gilbert Hernandez	Galen Panger_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Galen Panger	UC Berkeley News	Galen Panger_UC Berkeley News_cl_8	#FF0000	cl_8
+Galen Panger	nicolewong	Galen Panger_nicolewong_cl_8	#FF0000	cl_8
+Galen Panger	Emily Barabas	Galen Panger_Emily Barabas_cl_8	#FF0000	cl_8
+Sebastian Benthall	The Tweetserve	Sebastian Benthall_The Tweetserve_cl_6	#800000	cl_6
+Dhawal Mujumdar	Anno Saxenian	Dhawal Mujumdar_Anno Saxenian_cl_8	#FF0000	cl_8
+Dhawal Mujumdar	ManoMarks	Dhawal Mujumdar_ManoMarks_cl_8	#FF0000	cl_8
+Dhawal Mujumdar	Hong	Dhawal Mujumdar_Hong_cl_8	#FF0000	cl_8
+Dhawal Mujumdar	Roy Bahat	Dhawal Mujumdar_Roy Bahat_cl_8	#FF0000	cl_8
+Dhawal Mujumdar	Thejo Kote	Dhawal Mujumdar_Thejo Kote_cl_8	#FF0000	cl_8
+Dhawal Mujumdar	Cal	Dhawal Mujumdar_Cal_cl_8	#FF0000	cl_8
+Dhawal Mujumdar	Gilbert Hernandez	Dhawal Mujumdar_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Dhawal Mujumdar	Jess Hemerly	Dhawal Mujumdar_Jess Hemerly_cl_8	#FF0000	cl_8
+Dhawal Mujumdar	datascience@berkeley	Dhawal Mujumdar_datascience@berkeley_cl_8	#FF0000	cl_8
+Dhawal Mujumdar	Paul D Goodman	Dhawal Mujumdar_Paul D Goodman_cl_8	#FF0000	cl_8
+Dhawal Mujumdar	Kim Norlen	Dhawal Mujumdar_Kim Norlen_cl_8	#FF0000	cl_8
+iSchools	Anno Saxenian	iSchools_Anno Saxenian_cl_8	#FF0000	cl_8
+iSchools	ManoMarks	iSchools_ManoMarks_cl_8	#FF0000	cl_8
+iSchools	Airi Lampinen	iSchools_Airi Lampinen_cl_8	#FF0000	cl_8
+iSchools	Michael Porath	iSchools_Michael Porath_cl_8	#FF0000	cl_8
+iSchools	D-Lab	iSchools_D-Lab_cl_8	#FF0000	cl_8
+iSchools	Hong	iSchools_Hong_cl_8	#FF0000	cl_8
+iSchools	Cal	iSchools_Cal_cl_8	#FF0000	cl_8
+iSchools	datascience@berkeley	iSchools_datascience@berkeley_cl_8	#FF0000	cl_8
+iSchools	danah boyd	iSchools_danah boyd_cl_8	#FF0000	cl_8
+iSchools	Anne Wootton	iSchools_Anne Wootton_cl_8	#FF0000	cl_8
+iSchools	Pop Up Archive	iSchools_Pop Up Archive_cl_8	#FF0000	cl_8
+iSchools	Kim Norlen	iSchools_Kim Norlen_cl_8	#FF0000	cl_8
+iSchools	Sarita Y Schoenebeck	iSchools_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+iSchools	Gilbert Hernandez	iSchools_Gilbert Hernandez_cl_8	#FF0000	cl_8
+iSchools	nicolewong	iSchools_nicolewong_cl_8	#FF0000	cl_8
+ruchita rathi	Niranjan K	ruchita rathi_Niranjan K_cl_9	#FF3300	cl_9
+ruchita rathi	&#50976;&#46041;&#44540; Travis Yoo	ruchita rathi_&#50976;&#46041;&#44540; Travis Yoo_cl_9	#FF3300	cl_9
+ManoMarks	Anno Saxenian	ManoMarks_Anno Saxenian_cl_8	#FF0000	cl_8
+ManoMarks	Michael Porath	ManoMarks_Michael Porath_cl_8	#FF0000	cl_8
+ManoMarks	D-Lab	ManoMarks_D-Lab_cl_8	#FF0000	cl_8
+ManoMarks	Leslie Tom	ManoMarks_Leslie Tom_cl_8	#FF0000	cl_8
+ManoMarks	Hong	ManoMarks_Hong_cl_8	#FF0000	cl_8
+ManoMarks	Cal	ManoMarks_Cal_cl_8	#FF0000	cl_8
+ManoMarks	CITRIS	ManoMarks_CITRIS_cl_8	#FF0000	cl_8
+ManoMarks	Jess Hemerly	ManoMarks_Jess Hemerly_cl_8	#FF0000	cl_8
+ManoMarks	datascience@berkeley	ManoMarks_datascience@berkeley_cl_8	#FF0000	cl_8
+ManoMarks	Roy Bahat	ManoMarks_Roy Bahat_cl_8	#FF0000	cl_8
+ManoMarks	danah boyd	ManoMarks_danah boyd_cl_8	#FF0000	cl_8
+ManoMarks	Dan Byler	ManoMarks_Dan Byler_cl_8	#FF0000	cl_8
+ManoMarks	Bailey Smith	ManoMarks_Bailey Smith_cl_8	#FF0000	cl_8
+ManoMarks	Raymond Yee	ManoMarks_Raymond Yee_cl_8	#FF0000	cl_8
+ManoMarks	Mohit Gupta	ManoMarks_Mohit Gupta_cl_8	#FF0000	cl_8
+ManoMarks	Paul D Goodman	ManoMarks_Paul D Goodman_cl_8	#FF0000	cl_8
+ManoMarks	Pop Up Archive	ManoMarks_Pop Up Archive_cl_8	#FF0000	cl_8
+ManoMarks	Bob Glushko	ManoMarks_Bob Glushko_cl_8	#FF0000	cl_8
+ManoMarks	Nick Doty	ManoMarks_Nick Doty_cl_8	#FF0000	cl_8
+ManoMarks	Tapan Parikh	ManoMarks_Tapan Parikh_cl_8	#FF0000	cl_8
+ManoMarks	Kim Norlen	ManoMarks_Kim Norlen_cl_8	#FF0000	cl_8
+ManoMarks	Sarita Y Schoenebeck	ManoMarks_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+ManoMarks	Gilbert Hernandez	ManoMarks_Gilbert Hernandez_cl_8	#FF0000	cl_8
+ManoMarks	nicolewong	ManoMarks_nicolewong_cl_8	#FF0000	cl_8
+Karen Rustad	Jez Humble	Karen Rustad_Jez Humble_cl_1	#FF6600	cl_1
+ethnographymatters	Jenna Burrell	ethnographymatters_Jenna Burrell_cl_7	#000080	cl_7
+Airi Lampinen	Anno Saxenian	Airi Lampinen_Anno Saxenian_cl_8	#FF0000	cl_8
+Airi Lampinen	Michael Porath	Airi Lampinen_Michael Porath_cl_8	#FF0000	cl_8
+Airi Lampinen	D-Lab	Airi Lampinen_D-Lab_cl_8	#FF0000	cl_8
+Airi Lampinen	Hong	Airi Lampinen_Hong_cl_8	#FF0000	cl_8
+Airi Lampinen	Cal	Airi Lampinen_Cal_cl_8	#FF0000	cl_8
+Airi Lampinen	CITRIS	Airi Lampinen_CITRIS_cl_8	#FF0000	cl_8
+Airi Lampinen	Jess Hemerly	Airi Lampinen_Jess Hemerly_cl_8	#FF0000	cl_8
+Airi Lampinen	datascience@berkeley	Airi Lampinen_datascience@berkeley_cl_8	#FF0000	cl_8
+Airi Lampinen	Roy Bahat	Airi Lampinen_Roy Bahat_cl_8	#FF0000	cl_8
+Airi Lampinen	danah boyd	Airi Lampinen_danah boyd_cl_8	#FF0000	cl_8
+Airi Lampinen	Dan Byler	Airi Lampinen_Dan Byler_cl_8	#FF0000	cl_8
+Airi Lampinen	Ryan McAdam	Airi Lampinen_Ryan McAdam_cl_8	#FF0000	cl_8
+Airi Lampinen	Raymond Yee	Airi Lampinen_Raymond Yee_cl_8	#FF0000	cl_8
+Airi Lampinen	Mohit Gupta	Airi Lampinen_Mohit Gupta_cl_8	#FF0000	cl_8
+Airi Lampinen	Paul D Goodman	Airi Lampinen_Paul D Goodman_cl_8	#FF0000	cl_8
+Airi Lampinen	Pop Up Archive	Airi Lampinen_Pop Up Archive_cl_8	#FF0000	cl_8
+Airi Lampinen	Bob Glushko	Airi Lampinen_Bob Glushko_cl_8	#FF0000	cl_8
+Airi Lampinen	Nick Doty	Airi Lampinen_Nick Doty_cl_8	#FF0000	cl_8
+Airi Lampinen	Tapan Parikh	Airi Lampinen_Tapan Parikh_cl_8	#FF0000	cl_8
+Airi Lampinen	Sarita Y Schoenebeck	Airi Lampinen_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Airi Lampinen	UC Berkeley News	Airi Lampinen_UC Berkeley News_cl_8	#FF0000	cl_8
+Airi Lampinen	nicolewong	Airi Lampinen_nicolewong_cl_8	#FF0000	cl_8
+Airi Lampinen	Emily Barabas	Airi Lampinen_Emily Barabas_cl_8	#FF0000	cl_8
+Michael Porath	Anno Saxenian	Michael Porath_Anno Saxenian_cl_8	#FF0000	cl_8
+Michael Porath	D-Lab	Michael Porath_D-Lab_cl_8	#FF0000	cl_8
+Michael Porath	Leslie Tom	Michael Porath_Leslie Tom_cl_8	#FF0000	cl_8
+Michael Porath	X to the M	Michael Porath_X to the M_cl_8	#FF0000	cl_8
+Michael Porath	Hong	Michael Porath_Hong_cl_8	#FF0000	cl_8
+Michael Porath	Thejo Kote	Michael Porath_Thejo Kote_cl_8	#FF0000	cl_8
+Michael Porath	Cal	Michael Porath_Cal_cl_8	#FF0000	cl_8
+Michael Porath	CITRIS	Michael Porath_CITRIS_cl_8	#FF0000	cl_8
+Michael Porath	Jess Hemerly	Michael Porath_Jess Hemerly_cl_8	#FF0000	cl_8
+Michael Porath	datascience@berkeley	Michael Porath_datascience@berkeley_cl_8	#FF0000	cl_8
+Michael Porath	Roy Bahat	Michael Porath_Roy Bahat_cl_8	#FF0000	cl_8
+Michael Porath	danah boyd	Michael Porath_danah boyd_cl_8	#FF0000	cl_8
+Michael Porath	Anne Wootton	Michael Porath_Anne Wootton_cl_8	#FF0000	cl_8
+Michael Porath	Dan Byler	Michael Porath_Dan Byler_cl_8	#FF0000	cl_8
+Michael Porath	Bailey Smith	Michael Porath_Bailey Smith_cl_8	#FF0000	cl_8
+Michael Porath	Ryan McAdam	Michael Porath_Ryan McAdam_cl_8	#FF0000	cl_8
+Michael Porath	Mohit Gupta	Michael Porath_Mohit Gupta_cl_8	#FF0000	cl_8
+Michael Porath	Paul D Goodman	Michael Porath_Paul D Goodman_cl_8	#FF0000	cl_8
+Michael Porath	Pop Up Archive	Michael Porath_Pop Up Archive_cl_8	#FF0000	cl_8
+Michael Porath	Bob Glushko	Michael Porath_Bob Glushko_cl_8	#FF0000	cl_8
+Michael Porath	Nick Doty	Michael Porath_Nick Doty_cl_8	#FF0000	cl_8
+Michael Porath	Tapan Parikh	Michael Porath_Tapan Parikh_cl_8	#FF0000	cl_8
+Michael Porath	Kim Norlen	Michael Porath_Kim Norlen_cl_8	#FF0000	cl_8
+Michael Porath	Sarita Y Schoenebeck	Michael Porath_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Michael Porath	Gilbert Hernandez	Michael Porath_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Sean Carey	Alex Smolen	Sean Carey_Alex Smolen_cl_10	#008000	cl_10
+Sean Carey	georgethayes	Sean Carey_georgethayes_cl_10	#008000	cl_10
+Sean Carey	Yo-Shang	Sean Carey_Yo-Shang_cl_10	#008000	cl_10
+Sean Carey	Kimra	Sean Carey_Kimra_cl_10	#008000	cl_10
+D-Lab	Anno Saxenian	D-Lab_Anno Saxenian_cl_8	#FF0000	cl_8
+D-Lab	Leslie Tom	D-Lab_Leslie Tom_cl_8	#FF0000	cl_8
+D-Lab	Hong	D-Lab_Hong_cl_8	#FF0000	cl_8
+D-Lab	Cal	D-Lab_Cal_cl_8	#FF0000	cl_8
+D-Lab	CITRIS	D-Lab_CITRIS_cl_8	#FF0000	cl_8
+D-Lab	datascience@berkeley	D-Lab_datascience@berkeley_cl_8	#FF0000	cl_8
+D-Lab	danah boyd	D-Lab_danah boyd_cl_8	#FF0000	cl_8
+D-Lab	Raymond Yee	D-Lab_Raymond Yee_cl_8	#FF0000	cl_8
+D-Lab	Pop Up Archive	D-Lab_Pop Up Archive_cl_8	#FF0000	cl_8
+D-Lab	Nick Doty	D-Lab_Nick Doty_cl_8	#FF0000	cl_8
+D-Lab	Tapan Parikh	D-Lab_Tapan Parikh_cl_8	#FF0000	cl_8
+D-Lab	Sarita Y Schoenebeck	D-Lab_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+D-Lab	Gilbert Hernandez	D-Lab_Gilbert Hernandez_cl_8	#FF0000	cl_8
+D-Lab	Ryan McAdam	D-Lab_Ryan McAdam_cl_8	#FF0000	cl_8
+Leslie Tom	Hong	Leslie Tom_Hong_cl_8	#FF0000	cl_8
+Leslie Tom	Cal	Leslie Tom_Cal_cl_8	#FF0000	cl_8
+Leslie Tom	CITRIS	Leslie Tom_CITRIS_cl_8	#FF0000	cl_8
+Leslie Tom	Anne Wootton	Leslie Tom_Anne Wootton_cl_8	#FF0000	cl_8
+Leslie Tom	Dan Byler	Leslie Tom_Dan Byler_cl_8	#FF0000	cl_8
+Leslie Tom	Ryan McAdam	Leslie Tom_Ryan McAdam_cl_8	#FF0000	cl_8
+Leslie Tom	Mohit Gupta	Leslie Tom_Mohit Gupta_cl_8	#FF0000	cl_8
+Leslie Tom	Paul D Goodman	Leslie Tom_Paul D Goodman_cl_8	#FF0000	cl_8
+Leslie Tom	Pop Up Archive	Leslie Tom_Pop Up Archive_cl_8	#FF0000	cl_8
+Leslie Tom	Nick Doty	Leslie Tom_Nick Doty_cl_8	#FF0000	cl_8
+Leslie Tom	Gilbert Hernandez	Leslie Tom_Gilbert Hernandez_cl_8	#FF0000	cl_8
+X to the M	Hong	X to the M_Hong_cl_8	#FF0000	cl_8
+X to the M	Cal	X to the M_Cal_cl_8	#FF0000	cl_8
+X to the M	Jess Hemerly	X to the M_Jess Hemerly_cl_8	#FF0000	cl_8
+X to the M	Kim Norlen	X to the M_Kim Norlen_cl_8	#FF0000	cl_8
+X to the M	nicolewong	X to the M_nicolewong_cl_8	#FF0000	cl_8
+Hong	Anno Saxenian	Hong_Anno Saxenian_cl_8	#FF0000	cl_8
+Hong	Thejo Kote	Hong_Thejo Kote_cl_8	#FF0000	cl_8
+Hong	Cal	Hong_Cal_cl_8	#FF0000	cl_8
+Hong	CITRIS	Hong_CITRIS_cl_8	#FF0000	cl_8
+Hong	Jess Hemerly	Hong_Jess Hemerly_cl_8	#FF0000	cl_8
+Hong	datascience@berkeley	Hong_datascience@berkeley_cl_8	#FF0000	cl_8
+Hong	Roy Bahat	Hong_Roy Bahat_cl_8	#FF0000	cl_8
+Hong	danah boyd	Hong_danah boyd_cl_8	#FF0000	cl_8
+Hong	Anne Wootton	Hong_Anne Wootton_cl_8	#FF0000	cl_8
+Hong	Dan Byler	Hong_Dan Byler_cl_8	#FF0000	cl_8
+Hong	Bailey Smith	Hong_Bailey Smith_cl_8	#FF0000	cl_8
+Hong	Ryan McAdam	Hong_Ryan McAdam_cl_8	#FF0000	cl_8
+Hong	Raymond Yee	Hong_Raymond Yee_cl_8	#FF0000	cl_8
+Hong	Paul D Goodman	Hong_Paul D Goodman_cl_8	#FF0000	cl_8
+Hong	Pop Up Archive	Hong_Pop Up Archive_cl_8	#FF0000	cl_8
+Hong	Bob Glushko	Hong_Bob Glushko_cl_8	#FF0000	cl_8
+Hong	Nick Doty	Hong_Nick Doty_cl_8	#FF0000	cl_8
+Hong	Tapan Parikh	Hong_Tapan Parikh_cl_8	#FF0000	cl_8
+Hong	Kim Norlen	Hong_Kim Norlen_cl_8	#FF0000	cl_8
+Hong	Sarita Y Schoenebeck	Hong_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Hong	Gilbert Hernandez	Hong_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Hong	Andy Brooks	Hong_Andy Brooks_cl_8	#FF0000	cl_8
+Hong	UC Berkeley News	Hong_UC Berkeley News_cl_8	#FF0000	cl_8
+Hong	nicolewong	Hong_nicolewong_cl_8	#FF0000	cl_8
+MobileWorks	Acopio	MobileWorks_Acopio_cl_3	#FFCC00	cl_3
+MobileWorks	2U	MobileWorks_2U_cl_3	#FFCC00	cl_3
+MobileWorks	Prayag Narula	MobileWorks_Prayag Narula_cl_3	#FFCC00	cl_3
+Elizabeth Goodman	Jenna Burrell	Elizabeth Goodman_Jenna Burrell_cl_7	#000080	cl_7
+Dave Lester	Shreyas	Dave Lester_Shreyas_cl_2	#00FF00	cl_2
+Dave Lester	South Hall, Berkeley	Dave Lester_South Hall, Berkeley_cl_2	#00FF00	cl_2
+Dave Lester	Jonathan Henke	Dave Lester_Jonathan Henke_cl_2	#00FF00	cl_2
+Dave Lester	InfoCamp Berkeley	Dave Lester_InfoCamp Berkeley_cl_2	#00FF00	cl_2
+Dave Lester	Brian Bloomer	Dave Lester_Brian Bloomer_cl_2	#00FF00	cl_2
+Dave Lester	Shaun Guice	Dave Lester_Shaun Guice_cl_2	#00FF00	cl_2
+Dave Lester	Seema Hari	Dave Lester_Seema Hari_cl_2	#00FF00	cl_2
+Dave Lester	Jake Hartnell	Dave Lester_Jake Hartnell_cl_2	#00FF00	cl_2
+Thejo Kote	Anno Saxenian	Thejo Kote_Anno Saxenian_cl_8	#FF0000	cl_8
+Thejo Kote	Cal	Thejo Kote_Cal_cl_8	#FF0000	cl_8
+Thejo Kote	datascience@berkeley	Thejo Kote_datascience@berkeley_cl_8	#FF0000	cl_8
+Thejo Kote	Roy Bahat	Thejo Kote_Roy Bahat_cl_8	#FF0000	cl_8
+Thejo Kote	danah boyd	Thejo Kote_danah boyd_cl_8	#FF0000	cl_8
+Thejo Kote	Dan Byler	Thejo Kote_Dan Byler_cl_8	#FF0000	cl_8
+Thejo Kote	Ryan McAdam	Thejo Kote_Ryan McAdam_cl_8	#FF0000	cl_8
+Thejo Kote	Mohit Gupta	Thejo Kote_Mohit Gupta_cl_8	#FF0000	cl_8
+Thejo Kote	Paul D Goodman	Thejo Kote_Paul D Goodman_cl_8	#FF0000	cl_8
+Thejo Kote	Bob Glushko	Thejo Kote_Bob Glushko_cl_8	#FF0000	cl_8
+Thejo Kote	Tapan Parikh	Thejo Kote_Tapan Parikh_cl_8	#FF0000	cl_8
+Thejo Kote	Kim Norlen	Thejo Kote_Kim Norlen_cl_8	#FF0000	cl_8
+Thejo Kote	Gilbert Hernandez	Thejo Kote_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Cal	Anno Saxenian	Cal_Anno Saxenian_cl_8	#FF0000	cl_8
+Cal	CITRIS	Cal_CITRIS_cl_8	#FF0000	cl_8
+Cal	Jess Hemerly	Cal_Jess Hemerly_cl_8	#FF0000	cl_8
+Cal	datascience@berkeley	Cal_datascience@berkeley_cl_8	#FF0000	cl_8
+Cal	Roy Bahat	Cal_Roy Bahat_cl_8	#FF0000	cl_8
+Cal	danah boyd	Cal_danah boyd_cl_8	#FF0000	cl_8
+Cal	Anne Wootton	Cal_Anne Wootton_cl_8	#FF0000	cl_8
+Cal	Dan Byler	Cal_Dan Byler_cl_8	#FF0000	cl_8
+Cal	Bailey Smith	Cal_Bailey Smith_cl_8	#FF0000	cl_8
+Cal	Ryan McAdam	Cal_Ryan McAdam_cl_8	#FF0000	cl_8
+Cal	Raymond Yee	Cal_Raymond Yee_cl_8	#FF0000	cl_8
+Cal	Mohit Gupta	Cal_Mohit Gupta_cl_8	#FF0000	cl_8
+Cal	Paul D Goodman	Cal_Paul D Goodman_cl_8	#FF0000	cl_8
+Cal	Pop Up Archive	Cal_Pop Up Archive_cl_8	#FF0000	cl_8
+Cal	Bob Glushko	Cal_Bob Glushko_cl_8	#FF0000	cl_8
+Cal	Nick Doty	Cal_Nick Doty_cl_8	#FF0000	cl_8
+Cal	Tapan Parikh	Cal_Tapan Parikh_cl_8	#FF0000	cl_8
+Cal	Kim Norlen	Cal_Kim Norlen_cl_8	#FF0000	cl_8
+Cal	Sarita Y Schoenebeck	Cal_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Cal	Gilbert Hernandez	Cal_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Cal	Andy Brooks	Cal_Andy Brooks_cl_8	#FF0000	cl_8
+Cal	UC Berkeley News	Cal_UC Berkeley News_cl_8	#FF0000	cl_8
+Cal	nicolewong	Cal_nicolewong_cl_8	#FF0000	cl_8
+Cal	Emily Barabas	Cal_Emily Barabas_cl_8	#FF0000	cl_8
+CITRIS	Anno Saxenian	CITRIS_Anno Saxenian_cl_8	#FF0000	cl_8
+CITRIS	datascience@berkeley	CITRIS_datascience@berkeley_cl_8	#FF0000	cl_8
+CITRIS	Anne Wootton	CITRIS_Anne Wootton_cl_8	#FF0000	cl_8
+CITRIS	Paul D Goodman	CITRIS_Paul D Goodman_cl_8	#FF0000	cl_8
+CITRIS	Pop Up Archive	CITRIS_Pop Up Archive_cl_8	#FF0000	cl_8
+CITRIS	Tapan Parikh	CITRIS_Tapan Parikh_cl_8	#FF0000	cl_8
+CITRIS	Kim Norlen	CITRIS_Kim Norlen_cl_8	#FF0000	cl_8
+CITRIS	Gilbert Hernandez	CITRIS_Gilbert Hernandez_cl_8	#FF0000	cl_8
+CITRIS	UC Berkeley News	CITRIS_UC Berkeley News_cl_8	#FF0000	cl_8
+CITRIS	nicolewong	CITRIS_nicolewong_cl_8	#FF0000	cl_8
+Jim	Jez Humble	Jim_Jez Humble_cl_1	#FF6600	cl_1
+Jess Hemerly	Anno Saxenian	Jess Hemerly_Anno Saxenian_cl_8	#FF0000	cl_8
+Jess Hemerly	datascience@berkeley	Jess Hemerly_datascience@berkeley_cl_8	#FF0000	cl_8
+Jess Hemerly	danah boyd	Jess Hemerly_danah boyd_cl_8	#FF0000	cl_8
+Jess Hemerly	Nick Doty	Jess Hemerly_Nick Doty_cl_8	#FF0000	cl_8
+Jess Hemerly	Dan Byler	Jess Hemerly_Dan Byler_cl_8	#FF0000	cl_8
+Jess Hemerly	Raymond Yee	Jess Hemerly_Raymond Yee_cl_8	#FF0000	cl_8
+Jess Hemerly	Mohit Gupta	Jess Hemerly_Mohit Gupta_cl_8	#FF0000	cl_8
+Jess Hemerly	Paul D Goodman	Jess Hemerly_Paul D Goodman_cl_8	#FF0000	cl_8
+Jess Hemerly	Bob Glushko	Jess Hemerly_Bob Glushko_cl_8	#FF0000	cl_8
+Jess Hemerly	Kim Norlen	Jess Hemerly_Kim Norlen_cl_8	#FF0000	cl_8
+Jess Hemerly	Sarita Y Schoenebeck	Jess Hemerly_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Jess Hemerly	Gilbert Hernandez	Jess Hemerly_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Jess Hemerly	Andy Brooks	Jess Hemerly_Andy Brooks_cl_8	#FF0000	cl_8
+Jess Hemerly	nicolewong	Jess Hemerly_nicolewong_cl_8	#FF0000	cl_8
+Ankita Goyal	Ishita Ghosh	Ankita Goyal_Ishita Ghosh_cl_7	#000080	cl_7
+Isha Dandavate	j. w.	Isha Dandavate_j. w._cl_2	#00FF00	cl_2
+Isha Dandavate	South Hall, Berkeley	Isha Dandavate_South Hall, Berkeley_cl_2	#00FF00	cl_2
+Isha Dandavate	Jonathan Henke	Isha Dandavate_Jonathan Henke_cl_2	#00FF00	cl_2
+Isha Dandavate	InfoCamp Berkeley	Isha Dandavate_InfoCamp Berkeley_cl_2	#00FF00	cl_2
+Isha Dandavate	Divya	Isha Dandavate_Divya_cl_2	#00FF00	cl_2
+Isha Dandavate	Seema Hari	Isha Dandavate_Seema Hari_cl_2	#00FF00	cl_2
+Isha Dandavate	Jake Hartnell	Isha Dandavate_Jake Hartnell_cl_2	#00FF00	cl_2
+Chalenge	The Tweetserve	Chalenge_The Tweetserve_cl_6	#800000	cl_6
+Scott Martin&#8480;	Corey Hyllested	Scott Martin&#8480;_Corey Hyllested_cl_1	#FF6600	cl_1
+datascience@berkeley	Anno Saxenian	datascience@berkeley_Anno Saxenian_cl_8	#FF0000	cl_8
+datascience@berkeley	Roy Bahat	datascience@berkeley_Roy Bahat_cl_8	#FF0000	cl_8
+datascience@berkeley	danah boyd	datascience@berkeley_danah boyd_cl_8	#FF0000	cl_8
+datascience@berkeley	Raymond Yee	datascience@berkeley_Raymond Yee_cl_8	#FF0000	cl_8
+datascience@berkeley	Paul D Goodman	datascience@berkeley_Paul D Goodman_cl_8	#FF0000	cl_8
+datascience@berkeley	Bob Glushko	datascience@berkeley_Bob Glushko_cl_8	#FF0000	cl_8
+datascience@berkeley	Nick Doty	datascience@berkeley_Nick Doty_cl_8	#FF0000	cl_8
+datascience@berkeley	Tapan Parikh	datascience@berkeley_Tapan Parikh_cl_8	#FF0000	cl_8
+datascience@berkeley	Kim Norlen	datascience@berkeley_Kim Norlen_cl_8	#FF0000	cl_8
+datascience@berkeley	Sarita Y Schoenebeck	datascience@berkeley_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+datascience@berkeley	Gilbert Hernandez	datascience@berkeley_Gilbert Hernandez_cl_8	#FF0000	cl_8
+datascience@berkeley	Andy Brooks	datascience@berkeley_Andy Brooks_cl_8	#FF0000	cl_8
+datascience@berkeley	UC Berkeley News	datascience@berkeley_UC Berkeley News_cl_8	#FF0000	cl_8
+datascience@berkeley	nicolewong	datascience@berkeley_nicolewong_cl_8	#FF0000	cl_8
+datascience@berkeley	Ryan McAdam	datascience@berkeley_Ryan McAdam_cl_8	#FF0000	cl_8
+georgethayes	Kimra	georgethayes_Kimra_cl_10	#008000	cl_10
+georgethayes	Alex Smolen	georgethayes_Alex Smolen_cl_10	#008000	cl_10
+Shreyas	South Hall, Berkeley	Shreyas_South Hall, Berkeley_cl_2	#00FF00	cl_2
+Shreyas	InfoCamp Berkeley	Shreyas_InfoCamp Berkeley_cl_2	#00FF00	cl_2
+Shreyas	Brian Bloomer	Shreyas_Brian Bloomer_cl_2	#00FF00	cl_2
+Shreyas	Divya	Shreyas_Divya_cl_2	#00FF00	cl_2
+Shreyas	Shaun Guice	Shreyas_Shaun Guice_cl_2	#00FF00	cl_2
+Shreyas	Seema Hari	Shreyas_Seema Hari_cl_2	#00FF00	cl_2
+Shreyas	Jake Hartnell	Shreyas_Jake Hartnell_cl_2	#00FF00	cl_2
+Roy Bahat	Anno Saxenian	Roy Bahat_Anno Saxenian_cl_8	#FF0000	cl_8
+Roy Bahat	Gilbert Hernandez	Roy Bahat_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Roy Bahat	danah boyd	Roy Bahat_danah boyd_cl_8	#FF0000	cl_8
+Roy Bahat	Dan Byler	Roy Bahat_Dan Byler_cl_8	#FF0000	cl_8
+Roy Bahat	Mohit Gupta	Roy Bahat_Mohit Gupta_cl_8	#FF0000	cl_8
+Roy Bahat	Kim Norlen	Roy Bahat_Kim Norlen_cl_8	#FF0000	cl_8
+Roy Bahat	Sarita Y Schoenebeck	Roy Bahat_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+danah boyd	Anno Saxenian	danah boyd_Anno Saxenian_cl_8	#FF0000	cl_8
+danah boyd	Anne Wootton	danah boyd_Anne Wootton_cl_8	#FF0000	cl_8
+danah boyd	Dan Byler	danah boyd_Dan Byler_cl_8	#FF0000	cl_8
+danah boyd	Raymond Yee	danah boyd_Raymond Yee_cl_8	#FF0000	cl_8
+danah boyd	Mohit Gupta	danah boyd_Mohit Gupta_cl_8	#FF0000	cl_8
+danah boyd	Pop Up Archive	danah boyd_Pop Up Archive_cl_8	#FF0000	cl_8
+danah boyd	Nick Doty	danah boyd_Nick Doty_cl_8	#FF0000	cl_8
+danah boyd	Tapan Parikh	danah boyd_Tapan Parikh_cl_8	#FF0000	cl_8
+danah boyd	Kim Norlen	danah boyd_Kim Norlen_cl_8	#FF0000	cl_8
+danah boyd	Sarita Y Schoenebeck	danah boyd_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+danah boyd	Gilbert Hernandez	danah boyd_Gilbert Hernandez_cl_8	#FF0000	cl_8
+danah boyd	Andy Brooks	danah boyd_Andy Brooks_cl_8	#FF0000	cl_8
+danah boyd	nicolewong	danah boyd_nicolewong_cl_8	#FF0000	cl_8
+danah boyd	Emily Barabas	danah boyd_Emily Barabas_cl_8	#FF0000	cl_8
+Ian McDowell	Alex Smolen	Ian McDowell_Alex Smolen_cl_10	#008000	cl_10
+Arezu Aghaseyedjavad	Brian Bloomer	Arezu Aghaseyedjavad_Brian Bloomer_cl_2	#00FF00	cl_2
+Arezu Aghaseyedjavad	Shaun Guice	Arezu Aghaseyedjavad_Shaun Guice_cl_2	#00FF00	cl_2
+Rowyn	Alex Smolen	Rowyn_Alex Smolen_cl_10	#008000	cl_10
+Anne Wootton	Anno Saxenian	Anne Wootton_Anno Saxenian_cl_8	#FF0000	cl_8
+Anne Wootton	Bailey Smith	Anne Wootton_Bailey Smith_cl_8	#FF0000	cl_8
+Anne Wootton	Paul D Goodman	Anne Wootton_Paul D Goodman_cl_8	#FF0000	cl_8
+Anne Wootton	Pop Up Archive	Anne Wootton_Pop Up Archive_cl_8	#FF0000	cl_8
+Anne Wootton	Bob Glushko	Anne Wootton_Bob Glushko_cl_8	#FF0000	cl_8
+Anne Wootton	Kim Norlen	Anne Wootton_Kim Norlen_cl_8	#FF0000	cl_8
+Anne Wootton	Gilbert Hernandez	Anne Wootton_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Anne Wootton	Ryan McAdam	Anne Wootton_Ryan McAdam_cl_8	#FF0000	cl_8
+Dan Byler	Anno Saxenian	Dan Byler_Anno Saxenian_cl_8	#FF0000	cl_8
+Dan Byler	Ryan McAdam	Dan Byler_Ryan McAdam_cl_8	#FF0000	cl_8
+Dan Byler	Mohit Gupta	Dan Byler_Mohit Gupta_cl_8	#FF0000	cl_8
+Dan Byler	Paul D Goodman	Dan Byler_Paul D Goodman_cl_8	#FF0000	cl_8
+Dan Byler	Nick Doty	Dan Byler_Nick Doty_cl_8	#FF0000	cl_8
+Dan Byler	Kim Norlen	Dan Byler_Kim Norlen_cl_8	#FF0000	cl_8
+Dan Byler	Sarita Y Schoenebeck	Dan Byler_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Dan Byler	Gilbert Hernandez	Dan Byler_Gilbert Hernandez_cl_8	#FF0000	cl_8
+j. w.	South Hall, Berkeley	j. w._South Hall, Berkeley_cl_2	#00FF00	cl_2
+j. w.	Jonathan Henke	j. w._Jonathan Henke_cl_2	#00FF00	cl_2
+j. w.	Seema Hari	j. w._Seema Hari_cl_2	#00FF00	cl_2
+South Hall, Berkeley	Jonathan Henke	South Hall, Berkeley_Jonathan Henke_cl_2	#00FF00	cl_2
+South Hall, Berkeley	InfoCamp Berkeley	South Hall, Berkeley_InfoCamp Berkeley_cl_2	#00FF00	cl_2
+South Hall, Berkeley	Seema Hari	South Hall, Berkeley_Seema Hari_cl_2	#00FF00	cl_2
+South Hall, Berkeley	Jake Hartnell	South Hall, Berkeley_Jake Hartnell_cl_2	#00FF00	cl_2
+Bailey Smith	Ryan McAdam	Bailey Smith_Ryan McAdam_cl_8	#FF0000	cl_8
+Bailey Smith	Pop Up Archive	Bailey Smith_Pop Up Archive_cl_8	#FF0000	cl_8
+Bailey Smith	Kim Norlen	Bailey Smith_Kim Norlen_cl_8	#FF0000	cl_8
+Bailey Smith	Gilbert Hernandez	Bailey Smith_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Ryan McAdam	Anno Saxenian	Ryan McAdam_Anno Saxenian_cl_8	#FF0000	cl_8
+Ryan McAdam	Mohit Gupta	Ryan McAdam_Mohit Gupta_cl_8	#FF0000	cl_8
+Ryan McAdam	Paul D Goodman	Ryan McAdam_Paul D Goodman_cl_8	#FF0000	cl_8
+Ryan McAdam	Pop Up Archive	Ryan McAdam_Pop Up Archive_cl_8	#FF0000	cl_8
+Ryan McAdam	Tapan Parikh	Ryan McAdam_Tapan Parikh_cl_8	#FF0000	cl_8
+Ryan McAdam	Kim Norlen	Ryan McAdam_Kim Norlen_cl_8	#FF0000	cl_8
+Ryan McAdam	Gilbert Hernandez	Ryan McAdam_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Ryan McAdam	UC Berkeley News	Ryan McAdam_UC Berkeley News_cl_8	#FF0000	cl_8
+Anno Saxenian	Paul D Goodman	Anno Saxenian_Paul D Goodman_cl_8	#FF0000	cl_8
+Anno Saxenian	Pop Up Archive	Anno Saxenian_Pop Up Archive_cl_8	#FF0000	cl_8
+Anno Saxenian	Bob Glushko	Anno Saxenian_Bob Glushko_cl_8	#FF0000	cl_8
+Anno Saxenian	Tapan Parikh	Anno Saxenian_Tapan Parikh_cl_8	#FF0000	cl_8
+Anno Saxenian	Kim Norlen	Anno Saxenian_Kim Norlen_cl_8	#FF0000	cl_8
+Anno Saxenian	Sarita Y Schoenebeck	Anno Saxenian_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Anno Saxenian	Gilbert Hernandez	Anno Saxenian_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Anno Saxenian	Andy Brooks	Anno Saxenian_Andy Brooks_cl_8	#FF0000	cl_8
+Anno Saxenian	nicolewong	Anno Saxenian_nicolewong_cl_8	#FF0000	cl_8
+Jonathan Henke	InfoCamp Berkeley	Jonathan Henke_InfoCamp Berkeley_cl_2	#00FF00	cl_2
+Jonathan Henke	Seema Hari	Jonathan Henke_Seema Hari_cl_2	#00FF00	cl_2
+Yo-Shang	Kimra	Yo-Shang_Kimra_cl_10	#008000	cl_10
+Yo-Shang	Alex Smolen	Yo-Shang_Alex Smolen_cl_10	#008000	cl_10
+InfoCamp Berkeley	Seema Hari	InfoCamp Berkeley_Seema Hari_cl_2	#00FF00	cl_2
+InfoCamp Berkeley	Jake Hartnell	InfoCamp Berkeley_Jake Hartnell_cl_2	#00FF00	cl_2
+E.K.	&#50976;&#46041;&#44540; Travis Yoo	E.K._&#50976;&#46041;&#44540; Travis Yoo_cl_9	#FF3300	cl_9
+Brian Bloomer	Shaun Guice	Brian Bloomer_Shaun Guice_cl_2	#00FF00	cl_2
+Brian Bloomer	Seema Hari	Brian Bloomer_Seema Hari_cl_2	#00FF00	cl_2
+NextDrop	Jenna Burrell	NextDrop_Jenna Burrell_cl_7	#000080	cl_7
+Raymond Yee	Pop Up Archive	Raymond Yee_Pop Up Archive_cl_8	#FF0000	cl_8
+Raymond Yee	Bob Glushko	Raymond Yee_Bob Glushko_cl_8	#FF0000	cl_8
+Raymond Yee	Nick Doty	Raymond Yee_Nick Doty_cl_8	#FF0000	cl_8
+Raymond Yee	Tapan Parikh	Raymond Yee_Tapan Parikh_cl_8	#FF0000	cl_8
+Raymond Yee	Sarita Y Schoenebeck	Raymond Yee_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Jenna Burrell	Ishita Ghosh	Jenna Burrell_Ishita Ghosh_cl_7	#000080	cl_7
+Mohit Gupta	Paul D Goodman	Mohit Gupta_Paul D Goodman_cl_8	#FF0000	cl_8
+Mohit Gupta	Nick Doty	Mohit Gupta_Nick Doty_cl_8	#FF0000	cl_8
+Mohit Gupta	Tapan Parikh	Mohit Gupta_Tapan Parikh_cl_8	#FF0000	cl_8
+Mohit Gupta	Kim Norlen	Mohit Gupta_Kim Norlen_cl_8	#FF0000	cl_8
+Mohit Gupta	Sarita Y Schoenebeck	Mohit Gupta_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Mohit Gupta	Gilbert Hernandez	Mohit Gupta_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Paul D Goodman	Pop Up Archive	Paul D Goodman_Pop Up Archive_cl_8	#FF0000	cl_8
+Paul D Goodman	Nick Doty	Paul D Goodman_Nick Doty_cl_8	#FF0000	cl_8
+Paul D Goodman	Tapan Parikh	Paul D Goodman_Tapan Parikh_cl_8	#FF0000	cl_8
+Paul D Goodman	Kim Norlen	Paul D Goodman_Kim Norlen_cl_8	#FF0000	cl_8
+Paul D Goodman	Sarita Y Schoenebeck	Paul D Goodman_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Paul D Goodman	Gilbert Hernandez	Paul D Goodman_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Paul D Goodman	UC Berkeley News	Paul D Goodman_UC Berkeley News_cl_8	#FF0000	cl_8
+Paul D Goodman	nicolewong	Paul D Goodman_nicolewong_cl_8	#FF0000	cl_8
+Prateek Kakirwar	Alex Smolen	Prateek Kakirwar_Alex Smolen_cl_10	#008000	cl_10
+Pop Up Archive	Bob Glushko	Pop Up Archive_Bob Glushko_cl_8	#FF0000	cl_8
+Pop Up Archive	Tapan Parikh	Pop Up Archive_Tapan Parikh_cl_8	#FF0000	cl_8
+Pop Up Archive	Sarita Y Schoenebeck	Pop Up Archive_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Pop Up Archive	Gilbert Hernandez	Pop Up Archive_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Pop Up Archive	nicolewong	Pop Up Archive_nicolewong_cl_8	#FF0000	cl_8
+Alex Smolen	Kimra	Alex Smolen_Kimra_cl_10	#008000	cl_10
+LindsayT	Kevin Mateo Lim	LindsayT_Kevin Mateo Lim_cl_5	#00FF00	cl_5
+Bob Glushko	Tapan Parikh	Bob Glushko_Tapan Parikh_cl_8	#FF0000	cl_8
+Bob Glushko	Sarita Y Schoenebeck	Bob Glushko_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Bob Glushko	Gilbert Hernandez	Bob Glushko_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Niranjan K	&#50976;&#46041;&#44540; Travis Yoo	Niranjan K_&#50976;&#46041;&#44540; Travis Yoo_cl_9	#FF3300	cl_9
+Nick Doty	Sarita Y Schoenebeck	Nick Doty_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Nick Doty	Gilbert Hernandez	Nick Doty_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Nick Doty	Andy Brooks	Nick Doty_Andy Brooks_cl_8	#FF0000	cl_8
+Nick Doty	nicolewong	Nick Doty_nicolewong_cl_8	#FF0000	cl_8
+Nick Doty	Emily Barabas	Nick Doty_Emily Barabas_cl_8	#FF0000	cl_8
+Tapan Parikh	Sarita Y Schoenebeck	Tapan Parikh_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Tapan Parikh	Gilbert Hernandez	Tapan Parikh_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Tapan Parikh	UC Berkeley News	Tapan Parikh_UC Berkeley News_cl_8	#FF0000	cl_8
+Kim Norlen	Sarita Y Schoenebeck	Kim Norlen_Sarita Y Schoenebeck_cl_8	#FF0000	cl_8
+Kim Norlen	Gilbert Hernandez	Kim Norlen_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Kim Norlen	UC Berkeley News	Kim Norlen_UC Berkeley News_cl_8	#FF0000	cl_8
+Kim Norlen	nicolewong	Kim Norlen_nicolewong_cl_8	#FF0000	cl_8
+Divya	Seema Hari	Divya_Seema Hari_cl_2	#00FF00	cl_2
+Sarita Y Schoenebeck	Gilbert Hernandez	Sarita Y Schoenebeck_Gilbert Hernandez_cl_8	#FF0000	cl_8
+Sarita Y Schoenebeck	Andy Brooks	Sarita Y Schoenebeck_Andy Brooks_cl_8	#FF0000	cl_8
+Sarita Y Schoenebeck	nicolewong	Sarita Y Schoenebeck_nicolewong_cl_8	#FF0000	cl_8
+Gilbert Hernandez	Andy Brooks	Gilbert Hernandez_Andy Brooks_cl_8	#FF0000	cl_8
+Gilbert Hernandez	UC Berkeley News	Gilbert Hernandez_UC Berkeley News_cl_8	#FF0000	cl_8
+Shaun Guice	Seema Hari	Shaun Guice_Seema Hari_cl_2	#00FF00	cl_2
+Shaun Guice	Jake Hartnell	Shaun Guice_Jake Hartnell_cl_2	#00FF00	cl_2
+UC Berkeley News	nicolewong	UC Berkeley News_nicolewong_cl_8	#FF0000	cl_8
+nicolewong	Emily Barabas	nicolewong_Emily Barabas_cl_8	#FF0000	cl_8
+Seema Hari	Jake Hartnell	Seema Hari_Jake Hartnell_cl_2	#00FF00	cl_2
+
