@@ -1,0 +1,29 @@
+body {
+    margin:0px 0px 0px 0px;
+}
+.text {
+    font-size: 12px;
+}
+
+.node {
+    opacity: 1;
+}
+
+    .node:hover {
+        opacity: 1;
+    }
+
+.link {
+    fill: none;
+    stroke: #999;
+    stroke-opacity: 0.3;
+}
+
+#viz {
+    height:1300px;
+    width:90%;
+}
+
+#selector {
+    position:absolute;
+}
