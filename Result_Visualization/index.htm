@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="Twitter users clustering visualization">
+    <meta name="keywords" content="Better Force,D3">
+    <meta name="author" content="Kiki Qi Liu">
+    <title>WTF-Who To Follow - Data Mining</title>
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <link rel="stylesheet" href="style.css" /><!--specified css for this page-->
+
+</head>
+<body>
+    <h1>Who To Follow (WTF) on Twitter?</h1>
+    <div id="selector">Cluster by
+    <select id="clustering" onchange="changeClustering();">
+      <option value="">Please Select</option>
+      <option value="data/clusters_friend_25.json">Following/Friend</option>
+      <option value="data/clusters_follower_20.json">Follower</option>
+      <option value="data/clusters_mention_8.json">Mention</option>
+      <option value="data/clusters_twitid_0.json">Retweet</option>
+      <option value="data/clusters_hashtag_3.json">Hashtag</option>
+      <option value="data/clusters_url_0.json">URL</option>
+    </select></div>
+    <div id="viz"><svg></svg></div>
+    <script>
+        var node, link, svg;
+        function changeClustering() {
+            var dataUrl = $("#clustering").val();
+            refreshData(dataUrl)
+        }
+
+        function name(d) { return d.name; }
+
+        var width = $("#viz").width(),
+            height = $("#viz").height();
+
+        var voronoi = d3.geom.voronoi()//?
+            .x(function (d) { return d.x; })
+            .y(function (d) { return d.y; })
+            .clipExtent([[-10, -10], [width + 10, height + 10]]);
+
+        function recenterVoronoi(nodes) {
+            var shapes = [];
+            voronoi(nodes).forEach(function (d) {
+                if (!d.length) return;
+                var n = [];
+                d.forEach(function (c) {
+                    n.push([c[0] - d.point.x, c[1] - d.point.y]);
+                });
+                n.point = d.point;
+                shapes.push(n);
+            });
+            return shapes;
+        }
+
+        function onTick() {//for every tick, calc lines etc.
+            node.attr('transform', function (d) { return 'translate(' + d.x + ',' + d.y + ')'; })
+                .attr('clip-path', function (d) { return 'url(#clip-' + d.index + ')'; });
+
+            link.attr('x1', function (d) { return d.source.x; })
+                .attr('y1', function (d) { return d.source.y; })
+                .attr('x2', function (d) { return d.target.x; })
+                .attr('y2', function (d) { return d.target.y; });
+
+            var clip = svg.selectAll('.clip')
+                .data(recenterVoronoi(node.data()), function (d) { return d.point.index; });
+
+            clip.enter().append('clipPath')
+                .attr('id', function (d) { return 'clip-' + d.point.index; })
+                .attr('class', 'clip');
+            clip.exit().remove()
+
+            clip.selectAll('path').remove();
+            clip.append('path')
+                .attr('d', function (d) { return 'M' + d.join(',') + 'Z'; });
+        }
+
+        function refreshData(jsonPath) {
+
+            
+            svg = d3.select('#viz svg')
+            svg.remove();
+            svg = d3.select('#viz')
+                .append('svg')
+                .attr('width', width)
+                .attr('height', height);
+
+            var force = d3.layout.force()
+                .charge(-200) //for nodes without link
+                .linkDistance(200) //for nodes with link (the length of the edges between connected nodes)
+                .size([width, height]);
+
+            force.on('tick', onTick); //register onTick on event 
+
+            d3.json(jsonPath, function (err, data) {
+
+                var map = d3.map();
+                data.nodes = []
+                data.students.forEach(function (d, i) {//element, index
+
+                    if (d.friends.length > 0) {//reset &&<100??
+                        data.nodes.push(d);//append
+                        map.set(d.id, data.nodes.length - 1);//use length-1 as index
+                    }
+                    else {
+                        console.log(d.friends[1])
+                    }
+                });
+
+                data.links = [];
+                data.nodes.forEach(function (d, i) {
+                    d.friends.forEach(function (f, j) {
+                        if (map.get(f[0]) !== undefined) {
+                            data.links.push({ source: i, target: map.get(f[0]) });
+                        }
+                    });
+                });
+
+
+                link = svg.selectAll('.link')
+                    .data(data.links)
+                  .enter().append('line')
+                    .attr('class', 'link')
+                    //.style("stroke-width", 1);
+
+                node = svg.selectAll('.node')
+                    .data(data.nodes)
+                  .enter().append('g')
+                    .attr('title', name)
+                    .attr('class', 'node')
+                    .call(force.drag);
+
+                node.append('text')
+                    .attr('class', 'text')
+                    .text(name);
+
+                force
+                    .nodes(data.nodes)
+                    .links(data.links)
+                    .start();
+            });
+        }
+    </script>
+</body>
+</html>

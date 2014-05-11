@@ -1,0 +1,24 @@
+Format:
+
+
+[
+	{
+		friends: [
+			[id, name, weight, common],
+			[id, name, weigth, common],
+			...
+		],
+		id: id,
+		name: name
+	},
+	{
+		friends: [
+			[id, name, weight, common],
+			[id, name, weigth, common],
+			...
+		],
+		id: id,
+		name: name
+	},
+	...
+]
