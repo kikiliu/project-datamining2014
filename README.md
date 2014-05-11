@@ -1,6 +1,133 @@
-Interest groups identification and friends recommendation
-======================
+#Who to Follow: Interests Group Clustering on Twitter
 
-Final Project for Datamining 2014
+Final Project for DataMining 2014 by Derek Kuo and Kiki Liu
 
-Visualization at http://people.ischool.berkeley.edu/~kikiliu/twitter/
+[Clustering Result Visualization](http://people.ischool.berkeley.edu/~kikiliu/twitter/)
+
+[Final Report](https://docs.google.com/document/d/1e5dzQbkbaQdrkncirnaLsq0-R4PQOo9FB3T1NepkFnI/edit#)
+
+
+##Introduction
+
+For any social media platform, it is always the top priority to maintain and expand the active user population. On the other hand, users can make the most out of the social media by being followed or following people with similar interests. Especially, we would like to help non-public figures connect who otherwise won’t be noticed in real life. In our research, we take a group of 337 Twitter users (followed by [@BerkeleyISchool](https://twitter.com/BerkeleyISchool)) and explore their similarity via six features they shared: following/followee, followed by, hashtag #, mention @, URL, retweet. Eventually, we come up with possible reasonable explanations on the clusters for some of the features and visualize the clusters in an interactive web service using D3.js. 
+
+##Problem
+
+We notice the need that people use social media to expend their network and look for like-minded. Unlike public figures who have resources to obtain high visibility on social media, common people rely on their current connections to actively be recommended to or recommend new connections. By clustering based on features that represented common interests, we want to give users an idea of where they stand now and who may interest them.  
+
+In this research, we work on Twitter data. We forsee the feasibility in other social-relevant platforms such as Yelp, Facebook, Instagram, Flicker. We’ll dive into the problem with data in “issues” part.
+
+##Solution (Process)
+
+####Step 1: Get and clean data
+
+The first task in our work is to decide that target group we attempt to analyze. Instead of randomly picking users from Twitter, we choose all users followed by I School to ensure the concentration of their common interests as the target users are hand-picked by our school account marketer. We did not include the users who follow I school to avoid unnecessary noise. 
+Among all features of a user Twitter API can provide, we especially interested in the following six:
+ 
+* Following: List of IDs the user is currently following
+* Follower: List of IDs currently following the userSocial
+* Hashtag: List of hashtags the user has used in past 3200 tweets.
+* Original tweet: List of original tweets the user has ever retweeted from in past 3200 tweets
+* URL: List of URLs the user has shared in past 3200 tweets
+* Mentions: List of IDs the user has mentioned in past 3200 tweets
+* 3200 tweets are the limits that we can get from a single user.
+
+We divided the six features into three categories: Social, Interest, and Hybrid. Social means these features represented more on the social relationship among users. Interest means these features represented more on the interests among users. Hybrid means a combination of social and interest. Notice that we don’t focus on the tweets’ content because our scope is limited to clustering. We would love to introduce content as features with natual language processing techniques in the future.
+ 
+####Step 2: Build graph
+
+Before we apply graph clustering, one important task is to build up a graph that represents the relationship among users. Assume two users (Shreyas and Jimmy) both have three followers, two of which are following both Shreyas and Jimmy. We then define an edge between Shreyas and Jimmy with the weight of 2. Note that Shreyas and Jimmy are not necessarily connected. Similarly, we built 6 graphs for each feature. (We used NetworkX, a graph building library as described in the related work section).
+ 
+####Step 3: Graph clustering
+
+After we built all graphs on all user nodes (337 users in our groups), we first have a peep on the original graph based on the real following and followed-by relationship. Apparently clustering algorithms are needed to build meaningful groups. Here are the two Algorithms we tried.
+
+* MCL - Allow weighted edge clustering, can not assign maximal cluster number.
+* RNSC - Allow maximal cluster numbers, only consider each edge weight = 1
+
+####Step 4: Evaluation and Visualization
+
+In order to evaluate each clustering result, we could either manually label groundtruth or observe based on the clusters. We first leveraged a web service to output clusters in static image. Eventually we build up our own website to display the clustering result using force-directed graph example. We have some interesting observations as below. For more details, please refer to: http://people.ischool.berkeley.edu/~kikiliu/twitter/ 
+
+* Example: Following (People who follow similar friends)
+The clusters generated by shared following/friends represent ISchool Alumni, ISchool current students, ISchool professors and staff respectively.
+* Example: Hashtag (People who share similar content)
+Popular hashtags are #datascience, #opendata, #bigdata, #infocamp, #gradlife, #gobears etc.
+
+####Issues and How We Resolved Them
+
+1. Choosing the platform: Facebook or Twitter
+
+Before settling on Twitter, we studied Facebook API and found that privacy would be a problem to access multiple accounts. Meanwhile, most of the users on Twitter make their connections and timeline publicly accessible.
+
+2. Tradeoff: Dataset versus API
+
+Twitter Data Grants - Twitter accepted request for non-commercial use before March 15th. However, the dataset is only requested by time over the entire site, which suits for projects like trend analysis; 
+Twitter API - Twiter has rich API resources and we are glad to find several versions of Python Libraries based on the API. Be aware that most of the python libaries were built by 3rd-party and only wrapped up part of the API functions. Another important limitation is time. We set sleep time in our functions to avoid excessive API calling. 
+
+
+3. Twitter API rate limits:
+
+Different Twitter API has different limitation on how many times can be called in certain periods. Limited to this, we can only get 15 user nodes at a time. We have built up a batch function with sleep function to complete the task periodically.
+
+4. Algorithm Choosing: MCL vs. RNSC
+
+Although MCL provided a feature to assign weight information, it performed poorly in our dataset. (Almost all nodes will be clustered into one big groups with several small groups which is not make much sense to us). As an improving solution, we used RNSC and set a threshold of weight for each edge. If an edge is below the threshold, we removed it before input into RNSC. Here are the threshold we used for each feature:
+
+[Following: 25   Follower: 20   Hashtag: 3   URL: 0   Original Tweet: 0   Mention: 8]
+
+####Related work and How We Implemented
+ 
+1. Data retrieving:
+
+Python-twitter is a package that wrapped most of twitter API into python functions. It provided an easy method to get data returned by API and save as dictionary in python directly. Noticed that twitter has set up rate limits for REST API v1.1 calls (https://dev.twitter.com/docs/rate-limiting/1.1/limits), so we only can access 15 users’ following/follower information in 15 minutes. We built a batch mechanism to complete all 337 nodes of data collection, including saving data in temporary Json file.    
+ 
+2. Graph building and clustering
+
+Our major task is graph clustering, we have picked several python libraries to support our work. For graph operation, NetworkX provided a quick way to construct nodes and edges of a graph including label information on the edge (weights, common content). For graph clustering algorithms, NeAT , as a network analysis tools, provided a convenient way to execute efficient clustering algorithms such as MCL and RNSC. By providing a simply input field to collect nodes and edges information, NeAT can quickly output the result clusters in different format such as tab-delimited, GML, and adjacency matrix. It also provided a function to quick visualize clustering results by a simple (though not sufficient to us) graphs.
+ 
+3. Data visualization
+
+Because we want to build up our own visualization, we also used D3.js to create a force graph-directed graph website: http://people.ischool.berkeley.edu/~kikiliu/twitter/
+ 
+
+* [iPython Notebook](http://ipython.org/notebook.html): Data processing platform
+* [Python-twitter API](https://github.com/sixohsix/twitter): Data retrieving library
+* [NetworkX for python](https://networkx.github.io/): Graph operation
+* [NeAT](http://rsat.ulb.ac.be/rsat/index_neat.html): Clustering algorithms (MCL, RNSC)
+* [D3.js Force Layout](https://github.com/mbostock/d3/wiki/Force-Layout): Data visualization
+
+####Future Work
+
+1. Text mining on Tweets text
+
+One of our purpose in the project is to extract users’ information about what they like and what they are interested in. Given the fact that the tweet text itself contains the most meaningful information, we think by using NLP techniques to mine directly from the tweet content can greatly increase the volume of knowledge from each users. To be more specific, building up an auto-tagger that can give tags to each tweets can provide a tag-matching comparison for every tweets. Moreover, currently we are using hashtags and URLs to extract keywords from users, we don’t know whether users have positive or negative feeling about these keywords. A sentiment analysis from NLP can be a good way to further divide users who mentioned the keywords into like or unlike groups. TFIDF techniques is also useful to extract unique words from the sentences besides using tagger.
+ 
+2. Hashtag similarity
+
+Different people tend to use different words to describe the same things, especially in hashtag. Hashtag is a special format of user-created word that connect several real word without space. Because this nature, seldom NLP analysis can apply to these hashtags including word stemmer and POS tagging (both can’t work on non-words). Recently, hashtag similarity calculation become a popular research domain, several papers are available such as “On the impact of text similarity functions on hashtag recommendations in microblogging environments” by Eva Zangerle, Wolfgang Gassler, Günther Specht of University of Innsbruch[1]. We also found that edit distance method[2] works well for hashtags.
+ 
+One we can tolerate similar hashtags and calculate edges by them, our clustering can be more accurate since it can boost the total recall by identify more common interests users.
+ 
+3. Potential applications
+
+Social graph clustering can be very useful in many fields. Here we list three of them.
+ 
+*  Friend recommendation
+
+Using our clustering graph and removing those edges between users who are already friends to each other, we can get a subset of graph that connect those users who have similar interests but not yet become friends. The output graph can be used as friend recommendation.
+
+*  Brand follower analysis for co-branding and co-marketing
+
+One of features in our work is the common follower between user nodes. It can be useful if we redefine the user nodes as businesses/public figures on twitters. By understanding which businesses have similar follower base, we can suggest businesses to co-marketing, co-branding, create product bundle together. Just imagine that Haggen Doze and Coke Cola have been clustering together, so they can create the bundle coupons to promote their product together.
+
+*   Group advertising
+
+Social clustering can be used for more analysis on advertising. One users purchase behaviors can be analyzed and contributed to the whole user groups. Sometimes it is hard to get sufficient purchasing data from a single customer, with the aid of clustering, we can get more behavioral data from whole group.
+
+In addition, we can label each cluster by the most frequent common keywords (hashtags, url titles) used within the group. It helps advertiser quickly query and find out the target groups they can do advertising.
+
+
+[1] [Hashtag Research](http://www.researchgate.net/publication/257801346_On_the_impact_of_text_similarity_functions_on_hashtag_recommendations_in_microblogging_environments)
+[2] [Edit Distance](http://en.wikipedia.org/wiki/Edit_distance)
+
